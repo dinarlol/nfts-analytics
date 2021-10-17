@@ -30,14 +30,16 @@ function getMints () {
     assert.equal(null, err);
     mintsPipeline(db, function (err1, mints) {
         let i = 0;
-        for (let index = 0; index < mints.length; index++) {
-          (async function(){
+        (async function(){
+        for (let index = 0; index < mints.length; index++) {        
+          console.log(`Task ${i} starting!`);
           const mint = mints[index];
-          await timer(30000);
           api.fetch(mint._id, mint.mints); 
+          await timer(30000);
           console.log(`Task ${i} done!`);
-        })()  
         }
+        })()  
+        
     // api.fetch('0xaa86c991f431a0cff8aba553b19268debb9b48a4', 1); 
       
     });
