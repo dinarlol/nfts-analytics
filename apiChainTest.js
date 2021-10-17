@@ -7,7 +7,7 @@ const { ethers } = require('ethers');
 
 const { MongoClient } = require('mongodb');
 
-const murl = 'mongodb+srv://test:test@cluster0.cjynh.mongodb.net/nftanalytics?retryWrites=true&w=majority';
+const murl = 'mongodb://127.0.0.1:27017/';
 
 const nftdb = 'nftanalytics';
 
