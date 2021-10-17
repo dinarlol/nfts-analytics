@@ -1,0 +1,50 @@
+LOGS:  {
+  blockNumber: 13335785,
+  blockHash: '0x2efac66ffc34c2315a9de9a1343e5d4d39be23d44b2d1ed6ad7f914bc8a184f0',
+  transactionIndex: 314,
+  removed: false,
+  address: '0xf1987F66553460a4F0730Ce17484F5a9A2E883a6',
+  data: '0x',
+  topics: [
+    '0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef',
+    '0x0000000000000000000000000000000000000000000000000000000000000000',
+    '0x00000000000000000000000075c06467756ed23076dd9e2f73a1a70e137695d0',
+    '0x00000000000000000000000000000000000000000000000000000000000000ae'
+  ],
+  transactionHash: '0xb178349876addc8cfdf61546fb21ad841d8765d0801608a5493227961effc3aa',
+  logIndex: 344
+}
+Interface {
+  fragments: [
+    EventFragment {
+      name: 'Transfer',
+      anonymous: false,
+      inputs: [Array],
+      type: 'event',
+      _isFragment: true
+    }
+  ],
+  _abiCoder: AbiCoder { coerceFunc: null },
+  functions: {},
+  errors: {},
+  events: {
+    'Transfer(address,address,uint256)': EventFragment {
+      name: 'Transfer',
+      anonymous: false,
+      inputs: [Array],
+      type: 'event',
+      _isFragment: true
+    }
+  },
+  structs: {},
+  deploy: ConstructorFragment {
+    name: null,
+    type: 'constructor',
+    inputs: [],
+    payable: false,
+    stateMutability: 'nonpayable',
+    gas: null,
+    _isFragment: true
+  },
+  _isInterface: true
+}

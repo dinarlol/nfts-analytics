@@ -1,0 +1,4819 @@
+1553 is the count 
+data:  {
+  tx: '0x02732cb901bd94417931db1804c26f3c597fc3651cde78a1cf806e2ebe32629c',
+  timestamp: 1634087079,
+  minter: '0x8c527879a68D242c1ccA8D23409d8Fd75324AC3A',
+  value: '80000000000000000',
+  tokenId: '36',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407043
+}
+data:  {
+  tx: '0x63f58cf2e23f6aaca4629a0b68ffcb9a60c7806ab3bbd94ec6232bf341cadeb1',
+  timestamp: 1634087079,
+  minter: '0x0983BAB359bd8c793017dF035d920be0bAac2bEA',
+  value: '80000000000000000',
+  tokenId: '38',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407043
+}
+data:  {
+  tx: '0x93a4b0aaa436a6c982e0a843f4d74c078a39921a85157e6773732533a1a6704f',
+  timestamp: 1634086992,
+  minter: '0xe4Dc6e44a6c9b2e1E06142440Ef468fa4F03493E',
+  value: '160000000000000000',
+  tokenId: '17',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407032
+}
+data:  {
+  tx: '0x63946b76b7cac7ba638be5c201697c070052a24693f4d6cc56ee0497d392f95b',
+  timestamp: 1634087035,
+  minter: '0xd283723e57659D26ee7dB620AECe3dEccb1B6CA7',
+  value: '80000000000000000',
+  tokenId: '31',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407037
+}
+data:  {
+  tx: '0x7afc721b6a6c7a771689ad5a9e1781ff1cb2b5f8a0db548d3e3bff6f6e4506bb',
+  timestamp: 1634087079,
+  minter: '0x3DEB3F260499a4c54564B9db319C005A576010C6',
+  value: '80000000000000000',
+  tokenId: '35',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407043
+}
+data:  {
+  tx: '0x4e2088a3af09367c809837bb94c0e247cf3be6197f0bb81645f488c3f7a0f5cd',
+  timestamp: 1634087079,
+  minter: '0x955F9c142b0d614fD166437461d37629910B3E94',
+  value: '80000000000000000',
+  tokenId: '34',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407043
+}
+data:  {
+  tx: '0xef04f6a92609cdfb490ed04d64dd6071fd7ebf4f688e07a343e25d69649cc51d',
+  timestamp: 1634088043,
+  minter: '0x7780C8B1b93B6A2F96fD35aD3Ed28A6dB3e0C079',
+  value: '160000000000000000',
+  tokenId: '202',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407123
+}
+data:  {
+  tx: '0x5c3b0a8ab719e3a935d11ac2e1fe7d3824c1c10204dcb40302cae30df9add4f3',
+  timestamp: 1634086959,
+  minter: '0x775bb47AD7030F5222D278C389EC8297A3B6B34B',
+  value: '80000000000000000',
+  tokenId: '16',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407029
+}
+data:  {
+  tx: '0xe3acc480ed4fcbe09bf646751b399ae3c2aeff6a4492681e8042aea3d3309a63',
+  timestamp: 1634088002,
+  minter: '0xEaFFb626014495a3331ed7539fD229893f57CB15',
+  value: '160000000000000000',
+  tokenId: '188',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407114
+}
+data:  {
+  tx: '0x920c991c743ee0bc21ab62f3e6aaf95aa145080681d99f7832ec4dfd8263eb6f',
+  timestamp: 1634088123,
+  minter: '0xfaaaa71338AB67829AC94B36099e4032fF8F6954',
+  value: '160000000000000000',
+  tokenId: '212',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407129
+}
+data:  {
+  tx: '0x3f00b7f6fb75cdbf8da7cf5dcca6b649a1ba1debd84c4f89463840749158b0fe',
+  timestamp: 1634087032,
+  minter: '0x675a844c50FC9111a0eA82bEe528dF5F586A8cCF',
+  value: '80000000000000000',
+  tokenId: '29',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407036
+}
+data:  {
+  tx: '0x0c6b23e4830ad27ba8a1836d9b0f0fdd64a434ee7ce90b472a02e06949c7b711',
+  timestamp: 1634088473,
+  minter: '0x69c6DF235f5bcf97F7c60a712f58e94c49A5dAE7',
+  value: '80000000000000000',
+  tokenId: '245',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407152
+}
+data:  {
+  tx: '0x109ad4fbe5962d3f7a2ff0ad8378246becad4f372e0a94bbf54a05d18ad38871',
+  timestamp: 1634088118,
+  minter: '0x8EBba7B3cfa1e1391d44CDBD4C5EB6fe9440eb89',
+  value: '80000000000000000',
+  tokenId: '207',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407128
+}
+data:  {
+  tx: '0xd3d0487aa9e65e39e5f7e918bb643e1a9a38970befcd06ef4e1d5ecd2fad427a',
+  timestamp: 1634189669,
+  minter: '0x97FcF079F347489CA51c491bC9FE1E2989d334E3',
+  value: '160000000000000000',
+  tokenId: '903',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414506
+}
+data:  {
+  tx: '0x7bf10062d412e1c6f9b6fbebd3288a4e22b80729d17faf3b75b64d7fbac5ae09',
+  timestamp: 1634107522,
+  minter: '0x05a5214752DeD026930447ab8cE84f86584CB362',
+  value: '160000000000000000',
+  tokenId: '578',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408526
+}
+data:  {
+  tx: '0x7f3974c9750b2ac0521f44bd498dcee6a6ebca68c58f61d48ed3ada25f8423be',
+  timestamp: 1634117738,
+  minter: '0xb33C42Deb9E379c10f05335757F9e8d34DB28F17',
+  value: '160000000000000000',
+  tokenId: '645',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409246
+}
+data:  {
+  tx: '0x05b59b346d381d747a7b2e7365e1a1c3671023f7b94b0ceeb34b09e1054648e4',
+  timestamp: 1634087955,
+  minter: '0xD278e6d471602c27044D5e9ba330E58B0FF6F1DF',
+  value: '160000000000000000',
+  tokenId: '183',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407112
+}
+data:  {
+  tx: '0x174b75fc1d4748a3feac7a0d757b0fee1bd790ebcaf416ce063c85e65619b231',
+  timestamp: 1634100505,
+  seller: '0xE23F99C3246F43Db5f659EA93AfE7755d9576ad3',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '388',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408011
+}
+data:  {
+  tx: '0x3e407898c66f277367e6dda343dae948316ac6d4b481aa8fb562e4b4ccd99f7a',
+  timestamp: 1634086933,
+  minter: '0xD744aDD88B1058234fa9bbA5C58Da7473FB8D187',
+  value: '160000000000000000',
+  tokenId: '10',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407026
+}
+data:  {
+  tx: '0x7b66145738a48e74687a351f274990bf6041b6fd459c819ccba943e83b653566',
+  timestamp: 1634091805,
+  minter: '0xD50F7319379d645880a12ABEed02905B307d9426',
+  value: '80000000000000000',
+  tokenId: '373',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407391
+}
+data:  {
+  tx: '0xa065ea372ada17e89255141e6922f7301b991945b78c9a60eff2e5ea989ff07a',
+  timestamp: 1634088123,
+  minter: '0x02E67BA35a70CFC15A6Ac8ca10F752F901E62Dce',
+  value: '160000000000000000',
+  tokenId: '210',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407129
+}
+data:  {
+  tx: '0xef44e85e9fda1bce67183078f6b709a5f06e65b4954b8ca5562a0eae7658d971',
+  timestamp: 1634087879,
+  minter: '0x35C1FadfAFFDbBE1E72c95A6F3e8483dCdcfAa49',
+  value: '160000000000000000',
+  tokenId: '173',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407105
+}
+data:  {
+  tx: '0xcb1ecc343a116b72e964ea3396e74137cfdad3b8632e564c93018e31f9d2d288',
+  timestamp: 1634190516,
+  minter: '0x3Ca77dbbf69a8d1FFa35bfA3e977E4999fE8b3aA',
+  value: '160000000000000000',
+  tokenId: '918',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414563
+}
+data:  {
+  tx: '0xacd15c21e13bdf61854e67e2f097f740cb98becc71050157262c960d4aa8354e',
+  timestamp: 1634260478,
+  minter: '0x6fcF1C8BF9b5624C26DE7fEa07AdeB474bcc08C2',
+  value: '240000000000000000',
+  tokenId: '1268',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419679
+}
+data:  {
+  tx: '0xb77a8cc4210df59ff523f5b8b9c5e93cf2d4f2a75687cdbbe058eaf2066fc7ab',
+  timestamp: 1634094518,
+  minter: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '160000000000000000',
+  tokenId: '437',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407567
+}
+data:  {
+  tx: '0xdfc78289f654918997ed878221ed6ed98ea516fb03da31cdf8fdd7142e99141a',
+  timestamp: 1634109140,
+  seller: '0xB964357ff792CD956Ed3BAe3C265420243b33692',
+  buyer: '0xc9E7A3937CF24Ed932B69C4545a20A5966a73fB5',
+  value: '115000000000000000',
+  tokenId: '272',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13408644
+}
+data:  {
+  tx: '0xfb8735173047d3734494ccfc04e0210b920e6a2848f714f193e681e215869c8f',
+  timestamp: 1634087994,
+  minter: '0x7120e584fBa8af178d6bdbD95e950943B40E66D8',
+  value: '160000000000000000',
+  tokenId: '186',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407113
+}
+data:  {
+  tx: '0x1580a4ff094043387064ff08088f010ea1252f41e9d764f5688645d9d0b2aa0e',
+  timestamp: 1634086922,
+  minter: '0x8346d0DbDBfa393fDe4652194B3f8715Cc51F665',
+  value: '80000000000000000',
+  tokenId: '7',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407025
+}
+data:  {
+  tx: '0xf6693928116c8f3673deface7dbe204c2c2d21ddc27f276a43ae82ada2b6dd1d',
+  timestamp: 1634087079,
+  minter: '0xaC1bDEAAB546e85eF16b01868B36663Ca74e1992',
+  value: '80000000000000000',
+  tokenId: '37',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407043
+}
+data:  {
+  tx: '0xd3c72cc38c3b30f23711234f1f1479528d77cf3eaab6cc9d735fc768be5f5c3a',
+  timestamp: 1634087266,
+  minter: '0x8A73749053D92f98D8099e6b0c698c93dcD8B4E7',
+  value: '160000000000000000',
+  tokenId: '80',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407057
+}
+data:  {
+  tx: '0xc9d04e357a0fa756f7715be64b18e64f2438df5857d4afe2202390ae0f28f7cd',
+  timestamp: 1634155430,
+  minter: '0xCB291218dF01C2E6e39d24Cf1c9f7F8166332508',
+  value: '80000000000000000',
+  tokenId: '800',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411993
+}
+data:  {
+  tx: '0x6971432d5c3681d0cede8e5eaaa48c990a79c9380a80a722fbc134530e083fa3',
+  timestamp: 1634189780,
+  minter: '0xFaDE41403a1EEe72d805c42F1Eaf5f53a54D0E0d',
+  value: '160000000000000000',
+  tokenId: '905',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414518
+}
+data:  {
+  tx: '0x9a66120e54178f47c98702631d39215360371865bea43bbf03d450871c50736d',
+  timestamp: 1634088123,
+  minter: '0xb2F9808FCAe075a29E52677Bd9c5E375eCa3ed04',
+  value: '160000000000000000',
+  tokenId: '208',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407129
+}
+data:  {
+  tx: '0x42bf2d64b04bd7210249ab58ed541f5af8804cff7cab3e708c14faa192d08062',
+  timestamp: 1634191740,
+  minter: '0xcE02F0D25eB9cF3bdCE65E96d45f837F30A9818c',
+  value: '160000000000000000',
+  tokenId: '929',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414656
+}
+data:  {
+  tx: '0x124948061cb896934a4eb6d99ae9dcbf2016f69a4f4e70040d3ebab77bf28451',
+  timestamp: 1634094019,
+  seller: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  buyer: '0xEFF0d788b33C1a93c5CC70d6e5F403ab52173ba6',
+  value: '0',
+  tokenId: '151',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407536
+}
+data:  {
+  tx: '0xdda1df71265150e4db6cf52c83ebd39b06ecce06e94902a341baece057a98b08',
+  timestamp: 1634106390,
+  minter: '0xD267AC7c5200570D9b038ED88946302095B209fa',
+  value: '80000000000000000',
+  tokenId: '564',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408440
+}
+data:  {
+  tx: '0x17bdf9965cb67ea768ba8cf4dadba12bc560720d9962bb3ae2339177f90e459c',
+  timestamp: 1634102641,
+  seller: '0x9b767A2ebD38727859A845e7f0dab731FeC31204',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '440',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408168
+}
+data:  {
+  tx: '0x4f1acddb6242092b6e3c827915c9c76f56a4ec5f171f74ab4cbb7d9cb300c88e',
+  timestamp: 1634087754,
+  minter: '0x8806B1A0792D2b429c22A0BAA9133197df833ABB',
+  value: '80000000000000000',
+  tokenId: '163',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407095
+}
+data:  {
+  tx: '0x0d8994a429e83a3c50f4cf7bf6e5e27a6999d96417dbde923033871687620594',
+  timestamp: 1634101187,
+  minter: '0xdFa8B9C4ebe4F69Ac36Ce462dAdD2E1c64482346',
+  value: '160000000000000000',
+  tokenId: '523',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408060
+}
+data:  {
+  tx: '0x735990fff1170f8d2af0e231261127977a9b5e01c57e619d58c18949d24ed38a',
+  timestamp: 1634088044,
+  minter: '0x3A3160CFD6320FaB1978F3e8E6026615fd83b209',
+  value: '80000000000000000',
+  tokenId: '204',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407124
+}
+data:  {
+  tx: '0xf05a834966935ef72c96a2984f480f7f54d670f541cc196bb8af2aa2f0f2539f',
+  timestamp: 1634108456,
+  minter: '0x2deBDbF0DDd86830064D0d3BfE9BBEb0e3B28F96',
+  value: '160000000000000000',
+  tokenId: '586',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408598
+}
+data:  {
+  tx: '0x80dff270a295fcc51daf6e85dc375a199a69716ae9ba887bd4c255ad1f3fb9c8',
+  timestamp: 1634087598,
+  minter: '0x86FD82218587D3b257F30594B00e01d09b31B802',
+  value: '80000000000000000',
+  tokenId: '130',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0xd1d7143b6b407be9d4100ebbe4e5fbe76ced462227e3e3415251d44780d4bef8',
+  timestamp: 1634176479,
+  seller: '0xaA4D944d7D56259Ba4575433bD411FF18b499171',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '128800000000000000',
+  tokenId: '386',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413547
+}
+data:  {
+  tx: '0x8d9dd2092f97a67dddb8ae9bcfaf84c00441b28f3cb38846c881496e2bd2b235',
+  timestamp: 1634183921,
+  minter: '0x519d70f1bc214e10a3FC502E9eE3A36D490a53f0',
+  value: '160000000000000000',
+  tokenId: '864',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414096
+}
+data:  {
+  tx: '0x39d6cd48dc02a39dfe97bff8ac9d934611750b348c2fa7ed3ffbbe1b311b3391',
+  timestamp: 1634172315,
+  minter: '0x4bFc4158417e24a79f9767a874b292a0216134a2',
+  value: '160000000000000000',
+  tokenId: '825',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413262
+}
+data:  {
+  tx: '0x8d3feddcf90115b3b81eb6a7a922cd223d7ef837e2fea1566a3f8b9e114c5e2d',
+  timestamp: 1634264136,
+  minter: '0xB8D8D919244f8015ca3C61CD7211386a477fCE53',
+  value: '80000000000000000',
+  tokenId: '1372',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419946
+}
+data:  {
+  tx: '0x44328c36c42eae0c0fd9a341da41edf0343eb55841542afc8d05cfd79cb12791',
+  timestamp: 1634088277,
+  minter: '0xa41Eda8d3ac701fCA8036C73b20A57957f3583b5',
+  value: '160000000000000000',
+  tokenId: '230',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407139
+}
+data:  {
+  tx: '0xb43166549112a911857ddbebb4dc46686a01e3fb9ca6b4748119bd21069b63d9',
+  timestamp: 1634261881,
+  minter: '0xC5c0A131303dfAB5fB8bcE3052BaB9326629da3d',
+  value: '400000000000000000',
+  tokenId: '1353',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419771
+}
+data:  {
+  tx: '0xe4774164ca0a4a45d5a7e61c9048a9984795cb0225edce5031c564c48d30fe80',
+  timestamp: 1634189780,
+  minter: '0x1DDc8632699f90770b26c00c408aF31Bac3dCA16',
+  value: '160000000000000000',
+  tokenId: '907',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414518
+}
+data:  {
+  tx: '0xbcf4db9ebf4dd7fb288d8d60864cb155d5d105d57828688c9d3ec8f1e6c0c327',
+  timestamp: 1634086951,
+  minter: '0xaA6bb45752624Cc225ad763970A21494CbF9E9dC',
+  value: '160000000000000000',
+  tokenId: '12',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407028
+}
+data:  {
+  tx: '0x6426ef2a1113f150c9a9f8b911eebe3fb1e23c99b98075e2691ca82c9c1c1944',
+  timestamp: 1634088149,
+  minter: '0x3A3160CFD6320FaB1978F3e8E6026615fd83b209',
+  value: '80000000000000000',
+  tokenId: '219',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407131
+}
+data:  {
+  tx: '0x37947dc6a9166815079ec08ce66c9252a4869e8737c67ddb74350f37749fa696',
+  timestamp: 1634259718,
+  minter: '0x34625c0670C6530616bc80006BcC7d838A906BEf',
+  value: '240000000000000000',
+  tokenId: '1086',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x92d59b96b5fdbc6e91410bf59d119962e064ab5fff99d52ad0745493e4bf8821',
+  timestamp: 1634175916,
+  seller: '0xe453812315Cb10C188C5a9dCA21Df9F1cA056724',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '834',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413504
+}
+data:  {
+  tx: '0xc500a49617d2832fe3fb8ce3a909535104121fb848bff44d841bda70710774eb',
+  timestamp: 1634111801,
+  minter: '0x572E311c231E8cf4F7EaEa8F54bc69DDDA674D64',
+  value: '80000000000000000',
+  tokenId: '618',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408835
+}
+data:  {
+  tx: '0x9bda6e7adf4665f2339b3579c97b13329298fb5b29df8a3ff9d2aedc72a27e6b',
+  timestamp: 1634260342,
+  minter: '0x52d95bF1c50abb8031A5367DB41aE3d73C1d7c06',
+  value: '400000000000000000',
+  tokenId: '1257',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419669
+}
+data:  {
+  tx: '0xb176719f5c5d1fff75dec1df08607d7c81cdde5ba147d22b8efa775329b7ba0c',
+  timestamp: 1634089851,
+  minter: '0xaFcE44F8A6D126962F7E65F2380F475215a131ba',
+  value: '160000000000000000',
+  tokenId: '321',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407253
+}
+data:  {
+  tx: '0x05ad9756da67076571342186e62c93347e2489d3557877fd19f177bb9bd7d17d',
+  timestamp: 1634183706,
+  minter: '0x21ceA8634157BE8117f16ff4781cBc72406ABcb6',
+  value: '160000000000000000',
+  tokenId: '860',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414082
+}
+data:  {
+  tx: '0x5676851a7df8568d1b08a7be999209452b2940e0efdd82bc74a874880706e4af',
+  timestamp: 1634087249,
+  minter: '0xaC1bDEAAB546e85eF16b01868B36663Ca74e1992',
+  value: '80000000000000000',
+  tokenId: '70',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407056
+}
+data:  {
+  tx: '0x66ed5a2bc1e98bf9172106b15906531fedb2f10f61ef01fd5cc9e0c53bb0b344',
+  timestamp: 1634177171,
+  seller: '0x646AacE7E9B39BF64f007DCdB3D9abF06D9EbC89',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '150000000000000000',
+  tokenId: '299',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413599
+}
+data:  {
+  tx: '0xdc256528f6e3a02af878db40bce12a77cb438bc99343866b770b02b4007c41d3',
+  timestamp: 1634114463,
+  minter: '0x6B855055ff90e3C3E3D50062a66D087deD194e5e',
+  value: '160000000000000000',
+  tokenId: '626',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409033
+}
+data:  {
+  tx: '0x4604b00c2f3395edb9c240c5d417b81cdfe029fad7bc530c5d8d134d7cbf7fa1',
+  timestamp: 1634125313,
+  minter: '0xB462dc4301Fef7D1bF16ad449d9572E2c9179599',
+  value: '80000000000000000',
+  tokenId: '726',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409807
+}
+data:  {
+  tx: '0x3a0298ffb5c1b247e90184ef265fe927e36eb37f307b2669461f79f645d230b0',
+  timestamp: 1634132923,
+  minter: '0x4d326C991E7433c463A979b92194257A17B459b5',
+  value: '160000000000000000',
+  tokenId: '754',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410348
+}
+data:  {
+  tx: '0x9e16682e07f58dcd867562afbd028be8f47a54c17bcfd6488b217fa43de55414',
+  timestamp: 1634100106,
+  minter: '0xC638b10EB5d754bd26bB8DDACA71C7E52d1dB93c',
+  value: '80000000000000000',
+  tokenId: '511',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407980
+}
+data:  {
+  tx: '0x8a40697933cc35af297696d00a50653cf8f97a9b1f922b4484429a97dd157a90',
+  timestamp: 1634088026,
+  minter: '0x10Cb685d725a895E63f36C96539f55380D269044',
+  value: '160000000000000000',
+  tokenId: '200',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407119
+}
+data:  {
+  tx: '0x07739db2b4fdea8ca102e6cbdd082b0a8284c60a021ceafe16ab96e60c3affc9',
+  timestamp: 1634175731,
+  seller: '0xDa7b063B9e3D917f9899914809499Dc4Ec4620db',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '118800000000000000',
+  tokenId: '506',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413492
+}
+data:  {
+  tx: '0xaec33e94a8f4434673e2c1e7e6d5db64fa2aea41833fc44cb467e8a566236950',
+  timestamp: 1634086922,
+  minter: '0x34cC62A979B2F4A3D757a6527aD6835C6284B6B9',
+  value: '160000000000000000',
+  tokenId: '4',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407025
+}
+data:  {
+  tx: '0xdf00a9f0c66ef49fb76caa4eea2131509bd811dc413583faf78aed21ab4814c3',
+  timestamp: 1634181980,
+  minter: '0xdf972b15A944E67Cf4fAF628c6fb1cBfb90B5176',
+  value: '80000000000000000',
+  tokenId: '849',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413947
+}
+data:  {
+  tx: '0xf7aa60bc312c5ab8efc187fc4563cf385824716232d53c387513eb413034f242',
+  timestamp: 1634087249,
+  minter: '0x7C008301368595633b82B625A1Fd7C5d15feE83A',
+  value: '80000000000000000',
+  tokenId: '65',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407056
+}
+data:  {
+  tx: '0x2d6ce13e1cb0ff17fc446bb7104a2e32550e2eab40dd72d7d556649a878ff03f',
+  timestamp: 1634175221,
+  seller: '0x2e78C7454F6395ADBAC09394E65f68ACDa44e357',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '96000000000000000',
+  tokenId: '149',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413458
+}
+data:  {
+  tx: '0xd66c2c64dddc658d759825d804b65d747e1443b562d82ae208bed3db6b6fa3a5',
+  timestamp: 1634088131,
+  minter: '0x54dD4659fC34D8763C772Aef0E810d6e7C376229',
+  value: '160000000000000000',
+  tokenId: '216',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407130
+}
+data:  {
+  tx: '0x52dac63628a26b5180945bec885aa92cea992c50d8478f1cbb37c3cd22098beb',
+  timestamp: 1634259718,
+  minter: '0xDDE2f6877F1D02F76a7a8e7aa2De7345F61695d7',
+  value: '240000000000000000',
+  tokenId: '1089',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x6e260bcff7ab3df4ed21ede6cd48db59aea3a8c946995ab4bba47a519999f67a',
+  timestamp: 1634190833,
+  minter: '0x16F1149556DAc8b3a1C67d62E52E41545fAd09E5',
+  value: '160000000000000000',
+  tokenId: '924',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414592
+}
+data:  {
+  tx: '0x11273a44ce8cae106efb3bfa1091335162aa8cf64d8ae29b3f0bc454d19fe83c',
+  timestamp: 1634087372,
+  minter: '0x4034E70f8D84e3ac931f4c6771DA1DCEA1DDCf53',
+  value: '160000000000000000',
+  tokenId: '101',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407066
+}
+data:  {
+  tx: '0xc362c91b9aea072a0aea05c735d1946c6fb7e51343c2736b855c94f5a6ed7c58',
+  timestamp: 1634123968,
+  minter: '0x82101fF84Ac719749fec8C9498100E67e033f145',
+  value: '80000000000000000',
+  tokenId: '717',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409709
+}
+data:  {
+  tx: '0xb4fbb91dc2608a288d5ffa1df7d78881b0440bd6d74a2a789c8ef3de9a3f1766',
+  timestamp: 1634118328,
+  minter: '0x9bccE9897f9B97b6D10C63E2C620987af4051A6f',
+  value: '160000000000000000',
+  tokenId: '662',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409298
+}
+data:  {
+  tx: '0xc52176730aad37ed2f6597bfbabfb59c1e0e2dce6e7a95c0fccdffc1de1d9a3b',
+  timestamp: 1634183706,
+  minter: '0xdc7778A87D0A1Ac303fC3282Bf37458734cB500B',
+  value: '160000000000000000',
+  tokenId: '862',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414082
+}
+data:  {
+  tx: '0x9d51f5998eb5fa38eaa09504954d2619f9a41c9e6f9c22f00ff182956dab7f44',
+  timestamp: 1634201556,
+  minter: '0xA10C7DdF2770E973500254bb70cdFB29540850Ec',
+  value: '160000000000000000',
+  tokenId: '974',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415372
+}
+data:  {
+  tx: '0x8b919265181b80b30583054884c50cc5b1c2e48294e3ae7a296b606bf2a37774',
+  timestamp: 1634125057,
+  minter: '0x7F2D91B3326Abd4b8F5dea2bA3a979Ae73c05d0C',
+  value: '160000000000000000',
+  tokenId: '724',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409794
+}
+data:  {
+  tx: '0x2f60a186a683c9b80fc3d0e316191a534d704b3653a8ab576663fcdb4c685e3c',
+  timestamp: 1634093132,
+  minter: '0x75726bBEFC8f0c9B4413204d8fb4aD88A4918dE4',
+  value: '160000000000000000',
+  tokenId: '395',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407482
+}
+data:  {
+  tx: '0x926618ef29063b9319e15d375c0c26823ced9cc277dbf3cffd23bcb179f7ab0b',
+  timestamp: 1634123968,
+  minter: '0x54cC5fC8eE48b8bdcd9e4fC3A95D678ae6047b9d',
+  value: '80000000000000000',
+  tokenId: '718',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409709
+}
+data:  {
+  tx: '0xb5e9774a32327ae3d87d60cd205134c0f4901136e5cf3be5115d34425625299a',
+  timestamp: 1634119107,
+  minter: '0x340E1302601a0c8aE0539432F93aED66aE1fbB17',
+  value: '160000000000000000',
+  tokenId: '666',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409346
+}
+data:  {
+  tx: '0x4ed854e700cc4e0d4a9de195bddb6546099579ad79547b6ec6f064920d965526',
+  timestamp: 1634203424,
+  minter: '0x8B7Ae9Db845ff3EAe47fE1070224f62E12B2aea9',
+  value: '160000000000000000',
+  tokenId: '980',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415515
+}
+data:  {
+  tx: '0xc9b1e5414767480bee8c2d4bcaa6745ae2f53163618b1cc1c38a8afe1a1a6c34',
+  timestamp: 1634259985,
+  minter: '0x7D60074F81F840763D971a6469683dB5B6f991a5',
+  value: '400000000000000000',
+  tokenId: '1172',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419642
+}
+data:  {
+  tx: '0x5a7fa84348cd54d58ec479f913816e13070a06a2bef99fe1048bc453d61d4aad',
+  timestamp: 1634189669,
+  minter: '0x1bF0E77e84EDb0A8AB8E55443BE5176142143Dd6',
+  value: '160000000000000000',
+  tokenId: '901',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414506
+}
+data:  {
+  tx: '0xdfcc19cef2e68088ab5e3080b2156dd135f6cdb958c149783335e187fa699a89',
+  timestamp: 1634087861,
+  minter: '0x54cC5fC8eE48b8bdcd9e4fC3A95D678ae6047b9d',
+  value: '80000000000000000',
+  tokenId: '172',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407103
+}
+data:  {
+  tx: '0xd95ca8d34e6a4b255da506323e8be62eee3cd7613641a776e25961798b2688e8',
+  timestamp: 1634139678,
+  minter: '0xCC0960243d099BCaE96c0D1AEACDdA01434d2ebc',
+  value: '80000000000000000',
+  tokenId: '780',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410833
+}
+data:  {
+  tx: '0xc81811739398692307e3e8dd06d34629e2a4ccaf85d131e66f2a70c51699ede2',
+  timestamp: 1634087598,
+  minter: '0x0aCE88B44C8010c81A6fd133F7D9f47ca79E6b64',
+  value: '80000000000000000',
+  tokenId: '129',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0x87315307df0c6aec222f54699f333d36bd350efba6bfb349e90b11ee90784786',
+  timestamp: 1634260181,
+  minter: '0x656421fdEc27c8309F5808664BC18649D315EdeF',
+  value: '160000000000000000',
+  tokenId: '1217',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419654
+}
+data:  {
+  tx: '0x21d0b671165b0d370bf59b5c0059ca8cea7634d0f95148f6184926e6e7b5ad2d',
+  timestamp: 1634260031,
+  minter: '0x99c868013bBB669D91E545789402694bBF5aBC87',
+  value: '400000000000000000',
+  tokenId: '1190',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419647
+}
+data:  {
+  tx: '0xe8e90bfd498ff458e4d7abcabff2d2f1775ac5e5150cca3c75b31cab4d58f7fe',
+  timestamp: 1634261400,
+  seller: '0x9a22A348CB3d4Be207Aec0d45267671cd68Ae2f9',
+  buyer: '0x1B23B740ba5C4473D0D0d6c5b8C9467d874C2d3a',
+  value: '0',
+  tokenId: '1286',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419737
+}
+data:  {
+  tx: '0xfa644090433fb2ff515c51a228e41d0357e83366668d2c034aaa69fa93549458',
+  timestamp: 1634089778,
+  seller: '0xFd53da9065DC055c99ec4a4e351FB2f863bd75da',
+  buyer: '0x828e08E545D16D5b3aeE56Bff3e173c99Fcb3b4C',
+  value: '0',
+  tokenId: '283',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407250
+}
+data:  {
+  tx: '0x3750dfd7223db0fecce7454d58febd55f6f080ae64f4f5cb4f340255b50ca58c',
+  timestamp: 1634122350,
+  minter: '0x2EB8124de2cDcf22277A5137a29a430c17750b2d',
+  value: '160000000000000000',
+  tokenId: '687',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409587
+}
+data:  {
+  tx: '0xf8eeddb141b737e7eb6e9240fc0b612090e3818b9b8d0e085e642fe224bc0202',
+  timestamp: 1634188780,
+  minter: '0x82c88ACCFe7a8674071413FE8A2940898e99219F',
+  value: '160000000000000000',
+  tokenId: '878',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x69c1e478653dbf39522fc6d0a1c5c9e53b8b7e93fb22280a057f19821726b54e',
+  timestamp: 1634093537,
+  minter: '0x2D6F47a0Afa5E95f6f3E85153121383AbFA05106',
+  value: '80000000000000000',
+  tokenId: '404',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407502
+}
+data:  {
+  tx: '0x468b9db6b49e0fce78134965779a0bd4d3e8ea84e97ffb7e0560115a1dfd90f2',
+  timestamp: 1634259985,
+  minter: '0xaf90EA2dD66B4aB68B8638e7a26DEC115Eff7Ef0',
+  value: '80000000000000000',
+  tokenId: '1184',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419642
+}
+data:  {
+  tx: '0x8f9c7abd2fada03abfc46e58fe4848af704ee9b2ce5e792fc3b6671241bed86e',
+  timestamp: 1634127614,
+  minter: '0xA06e1b58d1851819ad74e7248fC225E5953D1590',
+  value: '160000000000000000',
+  tokenId: '730',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409965
+}
+data:  {
+  tx: '0x064cf83e0356d8c4ab9e6e3881ae9f8ccee4092cd4805771717ead4ff3e13b83',
+  timestamp: 1634137187,
+  minter: '0xEc2f3CCB32D4B311909901F2c8455A37aA6C094E',
+  value: '160000000000000000',
+  tokenId: '769',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410650
+}
+data:  {
+  tx: '0x0d14664e2966d2970f37f8725c494049f6c6ff66e6d94b2fe785a95ee2d55152',
+  timestamp: 1634114368,
+  minter: '0xCB291218dF01C2E6e39d24Cf1c9f7F8166332508',
+  value: '80000000000000000',
+  tokenId: '624',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409023
+}
+data:  {
+  tx: '0xb8251e6cc0625f622e0de63b7b08489aba5a47411d6d6a1072ede9e24cabd3ea',
+  timestamp: 1634119868,
+  minter: '0x91769843CEc84Adcf7A48DF9DBd9694A39f44b42',
+  value: '160000000000000000',
+  tokenId: '669',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409402
+}
+data:  {
+  tx: '0x1fea15f70e06ea70fd3425aa7361fbca4a862e9ff830a757b0ce3f328b2d6377',
+  timestamp: 1634086868,
+  minter: '0xa648b4Ff446C7D2f6d71ec3d0361B2264AA17822',
+  value: '80000000000000000',
+  tokenId: '3',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407018
+}
+data:  {
+  tx: '0x51ff33c20c8b9a3e1f7fade6bc84f92fde58e1b52f1146ef15356daf1b7912f9',
+  timestamp: 1634177512,
+  minter: '0xC277783D4fCAD12135c51e0dAcc165Fb7c9aEe48',
+  value: '80000000000000000',
+  tokenId: '835',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413617
+}
+data:  {
+  tx: '0xbf3466f0047a460bba7eb3a2ba42cb99a79a12c695cbc413fd5b9131740dd175',
+  timestamp: 1634111386,
+  minter: '0x1232785Ea7bDBA1067Dd3a043b02Bad3e8cFB1c9',
+  value: '160000000000000000',
+  tokenId: '608',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408799
+}
+data:  {
+  tx: '0x413cf843c5c34653cbdbb8503476f9f8f4f85f5dde84e526cbf195600d28ad7f',
+  timestamp: 1634106510,
+  minter: '0x378Efd150B6c6242E84a2BDd255E8d2a7851eFf5',
+  value: '80000000000000000',
+  tokenId: '567',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408450
+}
+data:  {
+  tx: '0x46b1d3eeb4bbdbd5bd2cb4c9bbd048114d5181509cdfa1df8ea0910c783fdcdf',
+  timestamp: 1634087249,
+  minter: '0xaBEdEa173De4c4Dd9297856faB81115E841A8E37',
+  value: '80000000000000000',
+  tokenId: '61',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407056
+}
+data:  {
+  tx: '0xe4dd71a28e9801148b639d74f6c7df8f487190c1f7e99363f3c76915c0fb2be4',
+  timestamp: 1634096803,
+  seller: '0x28585C3834301877E82F8Cc9Cd545A22e3148aDd',
+  buyer: '0x21C9548B23b7fF3850d7354D17D48db9217370d1',
+  value: '0',
+  tokenId: '436',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407731
+}
+data:  {
+  tx: '0x33b40ec1b8fd19526278f02b5804cadb6de6d66b3e5313a5741ac4969b68b1bd',
+  timestamp: 1634121507,
+  minter: '0xAe15986324B2D47a55a51CeA648Ba5e6b6F91B58',
+  value: '160000000000000000',
+  tokenId: '678',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409526
+}
+data:  {
+  tx: '0xb70d1c8996cbade2d77b931502031d6f196edad630a367338ed7f0c77d8e3790',
+  timestamp: 1634093920,
+  minter: '0x86597B6ca2643b2CA4b324Cca2BD905691E7De46',
+  value: '160000000000000000',
+  tokenId: '419',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407534
+}
+data:  {
+  tx: '0x354cd7db56151b5229f6529122e4033d4efce44293fed054b113ae57e2c19b33',
+  timestamp: 1634190004,
+  minter: '0x41C389c0A86Ad99323F123733DE6c106c4C28402',
+  value: '160000000000000000',
+  tokenId: '913',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414531
+}
+data:  {
+  tx: '0x2bf68cd6c50d839966203adb7f86c2ea6868b1a07c7fff7b07e41cdc65595e80',
+  timestamp: 1634090238,
+  minter: '0x2bB1f381A026a7E96b62C47c5C9c5894c4427F97',
+  value: '80000000000000000',
+  tokenId: '340',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407285
+}
+data:  {
+  tx: '0x8a839d55252347373b7d51f9661bc5db53344d5aff67e80f6663b4f386660eb2',
+  timestamp: 1634194197,
+  minter: '0x2872b46D925BD06f15FDC82C59Aaee744ddB4B94',
+  value: '160000000000000000',
+  tokenId: '944',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414832
+}
+data:  {
+  tx: '0x85f6161005cf00b5fcddd83ed281b97eeb3e9f9c4f1e07690297418c9fbb4bbc',
+  timestamp: 1634088242,
+  minter: '0xD551076646DDAeCa92810c31bC42da56204310B0',
+  value: '160000000000000000',
+  tokenId: '228',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407137
+}
+data:  {
+  tx: '0xff335814fc9e7a6635e8e02aced9d8ab6931683f281b742f8cb49a70fadb4371',
+  timestamp: 1634139376,
+  minter: '0xB0413F68Dba511892829e749c232De98A1427543',
+  value: '160000000000000000',
+  tokenId: '776',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410814
+}
+data:  {
+  tx: '0x17ec6b084e3f7404cd9c21a3965025d61dc1b58e54f44fef31e656066fae1824',
+  timestamp: 1634091215,
+  minter: '0x838E9a9E66E8b398C24dB41b597ecb9f515a0A19',
+  value: '160000000000000000',
+  tokenId: '367',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407352
+}
+data:  {
+  tx: '0xd88fe48528cdd0b80c4732628ebf43db1316a5f73e175db82cc0462f3accfd33',
+  timestamp: 1634130295,
+  minter: '0x178A61498172D59BAD609b7Ad2469DD555642151',
+  value: '160000000000000000',
+  tokenId: '744',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410144
+}
+data:  {
+  tx: '0x6cc1d32fe8bce2262915923725c05a34cdf56efa83410c9691fa9619d9c71ae5',
+  timestamp: 1634087266,
+  minter: '0x69d0A3a214719fbaf7292dC10E1097c07E2B22b1',
+  value: '80000000000000000',
+  tokenId: '83',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407057
+}
+data:  {
+  tx: '0x6bfe7026cb8f804e1c4617b8304caa7345132a5cca37d16ccabb706bd07ca805',
+  timestamp: 1634103160,
+  minter: '0x513961cd439B346D712Cd81f3a2a2ed20e4150f3',
+  value: '80000000000000000',
+  tokenId: '540',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408211
+}
+data:  {
+  tx: '0xfc51cca090046c1ed2668b1de44110fdddac3a2653b39e8c98a0dbd2e2e58f42',
+  timestamp: 1634188780,
+  minter: '0xf6f8753A6e3CF04eb1B537120736397B997fA38b',
+  value: '160000000000000000',
+  tokenId: '884',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x4d81ff1304d75a0cab0beeb1b20c8c66d269469dd43026c1a996f4434290a623',
+  timestamp: 1634086922,
+  minter: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '160000000000000000',
+  tokenId: '8',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407025
+}
+data:  {
+  tx: '0x185e6e56ccb587d07f074f685575f74684c326142e289bcbfdd134f28e1f206b',
+  timestamp: 1634185903,
+  seller: '0x90eBBdcd83B62C5528b4c95C58cfc5c054159836',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '120000000000000000',
+  tokenId: '135',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13414247
+}
+data:  {
+  tx: '0x603b3d1f974df302de30cb1842fba31f97156f38aeaf65d97544b33e8d11974c',
+  timestamp: 1634180108,
+  seller: '0x084B40C73787a868D1641a494E82bAf8e61d8a5C',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '841',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413811
+}
+data:  {
+  tx: '0x62bdc6119159ae2155567c6c161aa1b08a9a12d6ccf1901877f731d0b12f09a7',
+  timestamp: 1634087412,
+  minter: '0xE9ca29854Fa77251365D3BBc276DC69EF13AFDA5',
+  value: '80000000000000000',
+  tokenId: '111',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407070
+}
+data:  {
+  tx: '0x5547b54295b3eee47fa23c9f12923980c60dec567c5fe3658d007a0dfc5a184b',
+  timestamp: 1634088604,
+  minter: '0x5656cB4721C21E1F5DCbe03Db9026ac0203d6e4f',
+  value: '160000000000000000',
+  tokenId: '246',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407163
+}
+data:  {
+  tx: '0x6076d5023ea079d3e8e1b407782f6e5b46f814da1e23bcbfb8ae5fb20cb8abe1',
+  timestamp: 1634194031,
+  minter: '0x96D63A88A95BD3270590D95a36A33CB85173F94a',
+  value: '160000000000000000',
+  tokenId: '942',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414821
+}
+data:  {
+  tx: '0xdbc62cb844f31cd2aa873fc3886b47632f389da6c94e7fdc8770d6b7618b8a84',
+  timestamp: 1634259985,
+  minter: '0xbE957A475844c127DDD207B4ff1F63900FD13E57',
+  value: '160000000000000000',
+  tokenId: '1177',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419642
+}
+data:  {
+  tx: '0x02a0be69511b0b3abbafb189bf0d3fb2a136b66cc9b9ae832365685b788af2ac',
+  timestamp: 1634098467,
+  minter: '0xbaf8E99AFeB32C2cEB772620C19B078e6156A4cC',
+  value: '160000000000000000',
+  tokenId: '475',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407850
+}
+data:  {
+  tx: '0x287637d7169fd79d284f47b627658480bf819514949a209163abfe7cf377e1b1',
+  timestamp: 1634100253,
+  minter: '0xc29d7FE198328A424B2113c91bcAA843D10e2c3c',
+  value: '160000000000000000',
+  tokenId: '513',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407993
+}
+data:  {
+  tx: '0xd09711b8ef25838b60d28ca23b2f4a30fca51f5536ecca923cf76748a801a7c2',
+  timestamp: 1634160222,
+  minter: '0xBeA90AE1a9A4aec663E3b8A519f395D318Bcab5d',
+  value: '80000000000000000',
+  tokenId: '807',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412368
+}
+data:  {
+  tx: '0xf7d1c392618ad9142184a80db0f78c6c09437171394ca76acc11f38f0ec72807',
+  timestamp: 1634117879,
+  minter: '0xD8609aa338Ec95E7163AA064c6AF5CCC573B0124',
+  value: '160000000000000000',
+  tokenId: '647',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409260
+}
+data:  {
+  tx: '0x7d0c4ea06f36d097df304e79173018044cf31ffaf870ea175a5e15f7b8ad5538',
+  timestamp: 1634117879,
+  minter: '0xF34a08462F8E6f2900b0723BBeE10aa9dd18242e',
+  value: '160000000000000000',
+  tokenId: '649',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409260
+}
+data:  {
+  tx: '0x3ea797f81f55772c28f0d4862b196f7c1d36521bedcb294a5fe78205f426d701',
+  timestamp: 1634119356,
+  minter: '0xC50c153fcB1F82acfAE59FA2b65e481FEb5D2A38',
+  value: '80000000000000000',
+  tokenId: '668',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409368
+}
+data:  {
+  tx: '0x24c98c7ba65d3ed134f9105d673aba5fbc5efa53b0732590f4db0ecd592257f3',
+  timestamp: 1634123680,
+  minter: '0xadAd9D8B1fbf556fC05f0054080b0574AD73201F',
+  value: '160000000000000000',
+  tokenId: '707',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409689
+}
+data:  {
+  tx: '0xc72a9e810d46de25e0bb460d55d9c78f7ea158dc1afbf4286c439f8547ed2136',
+  timestamp: 1634102893,
+  minter: '0x8EcdFC58423E37E0E32518589F2205B89EE9D950',
+  value: '160000000000000000',
+  tokenId: '538',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408193
+}
+data:  {
+  tx: '0x389296b046810600caf4b56be56b75d2e9c55458ac9f039283c79c9cf0f92eae',
+  timestamp: 1634261521,
+  minter: '0xcBd9a2F4C643Ed68DC6871D34602570726427D0C',
+  value: '80000000000000000',
+  tokenId: '1335',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x15b8e7d75299e6835d5806030d5badda59969d231cc18386f9e1c6f038bbfdc2',
+  timestamp: 1634087358,
+  minter: '0xAda536A089E7b04705AF759A90cBCF11156DE5c0',
+  value: '160000000000000000',
+  tokenId: '91',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407064
+}
+data:  {
+  tx: '0x51a2455c9029e503106ba22967564d4bf9b246aa11101f4da1303e7c337f023b',
+  timestamp: 1634259608,
+  minter: '0xE9EDDde6aF419faAB642921e24f68349Ec5B9071',
+  value: '320000000000000000',
+  tokenId: '1043',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419625
+}
+data:  {
+  tx: '0x2c08e763295da40bef4ea7061c9c8a1028d939b153b89f8abb136baa7efc6951',
+  timestamp: 1634261031,
+  minter: '0x864B73589657D9d99AA3dFDfff6dBF8Cc221EfC1',
+  value: '160000000000000000',
+  tokenId: '1290',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419711
+}
+data:  {
+  tx: '0x6650d88ef394d936f8cce71db2e3355c4f0aeac3d8c393b53d770bcc1ba3337c',
+  timestamp: 1634175548,
+  seller: '0x8EBba7B3cfa1e1391d44CDBD4C5EB6fe9440eb89',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '110000000000000000',
+  tokenId: '223',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413481
+}
+data:  {
+  tx: '0x6cdeb34ff19048c97a95e6966e665dfdc0e9686120d14500f07e1768c8bfcdde',
+  timestamp: 1634087650,
+  minter: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  value: '160000000000000000',
+  tokenId: '151',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407089
+}
+data:  {
+  tx: '0x9ac3b889fe025599ded54f6a883d58d7c8ecdb42be36c3bac7485653204b4192',
+  timestamp: 1634094025,
+  minter: '0x47610168128E6E14989B2AA1f82D5558283cE036',
+  value: '160000000000000000',
+  tokenId: '425',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407537
+}
+data:  {
+  tx: '0x7aec87f42a0cbcbcb33d6032e4857f5c444bda27848b4b28b0ad5f1b00aa5dd1',
+  timestamp: 1634190154,
+  minter: '0x6f38220d3534D1BacceeFF9BC9B1328082527c27',
+  value: '160000000000000000',
+  tokenId: '915',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414538
+}
+data:  {
+  tx: '0xda7c4fc47b64985c736b91bfe5b95dd0fc05e442996822d76aba9a7b6fd2f905',
+  timestamp: 1634090602,
+  seller: '0x10Cb685d725a895E63f36C96539f55380D269044',
+  buyer: '0xfFaf86E0D3473Fc1BD9A40f386Ab2070877E1C50',
+  value: '0',
+  tokenId: '200',
+  contract_id: '0x613b0B0b4589109420cdd972b4A37cBEDeeB8780',
+  blockNumber: 13407310
+}
+data:  {
+  tx: '0x79cb970e4cc2634cb52b3a2659a05d24dbd2794c80b43deb8571ac533635923f',
+  timestamp: 1634190957,
+  minter: '0xaaFb164259D27122530Aef535DCD059F5B3Dc844',
+  value: '160000000000000000',
+  tokenId: '926',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414604
+}
+data:  {
+  tx: '0x73ddc24d39cc1bdcc06a7da13874ee7e1ae690a5e45feca34c9cf37f0b59a1ec',
+  timestamp: 1634191593,
+  minter: '0x051dEe0c270842172B353E108fE32209bB7D7172',
+  value: '80000000000000000',
+  tokenId: '928',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414647
+}
+data:  {
+  tx: '0x7effd5ea5d161c2ca6a6f5746c86736572a2f587a0249f90b7da625ad8e2807b',
+  timestamp: 1634099038,
+  seller: '0xC8f962Bf0Be0f43E8125B2c23B0b222B7354CD15',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '480',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407894
+}
+data:  {
+  tx: '0x1c0f02eb843a28d299eb0209a4c4422ab00d3247dc0eceb60ba7beb8369477f5',
+  timestamp: 1634135118,
+  minter: '0x7874Aa25922877dF71984e763915b1aa653a79f3',
+  value: '160000000000000000',
+  tokenId: '760',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410500
+}
+data:  {
+  tx: '0xfdfe30a0e65a7b8f2586a8be771551fa268cfc4787e319d9ea29aa5693dbd725',
+  timestamp: 1634188780,
+  minter: '0x34e023261cE4C53130B2c981cF299F6b323dBCf4',
+  value: '160000000000000000',
+  tokenId: '886',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x0d5f91d996a48b0b7cc96a1af469afb7debf95b95c2789d28ec1bce79fd1c885',
+  timestamp: 1634117979,
+  minter: '0x1a308Ef09fB180A790680B0077626220D55D108D',
+  value: '80000000000000000',
+  tokenId: '655',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409267
+}
+data:  {
+  tx: '0x8ee74ea6a77bf22cf7917db7cb73f1522b54f4161a004a11dac21752fe9a6148',
+  timestamp: 1634133171,
+  minter: '0xa27ff27db3Df10A9ED75D00A1918B6895097CF55',
+  value: '160000000000000000',
+  tokenId: '756',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410367
+}
+data:  {
+  tx: '0x4d28bedc132f75586b27ed4ff4e670c40dbf308b142421a43aecb4f0cf184fca',
+  timestamp: 1634261464,
+  minter: '0x5f3681a52814094ed69307Ce28717F80BaD270C7',
+  value: '80000000000000000',
+  tokenId: '1311',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419747
+}
+data:  {
+  tx: '0x94102534fc9994506abb62ced67a22fb062504c9aaa8c3d2dc2fe9227b9081b8',
+  timestamp: 1634087812,
+  minter: '0xf89B1be9099fB97c7423d8c63e3084D024D03cae',
+  value: '160000000000000000',
+  tokenId: '168',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407099
+}
+data:  {
+  tx: '0xa97e6efe60b7e88f68c07153b22a5befb399a0dfd54e3031440887fd547c157a',
+  timestamp: 1634175468,
+  seller: '0x79AcFd46F05A17B2D9d1D836e446877Be46F95E9',
+  buyer: '0x3aF65E3EdEB4E8d88c249A8B4666D2f204c2F888',
+  value: '110000000000000000',
+  tokenId: '350',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413474
+}
+data:  {
+  tx: '0x995222236af1e2df81d5e6066ea25509660513e022c8bc945174fa1dcef2d4c2',
+  timestamp: 1634090197,
+  minter: '0x824fd69Ff7CB3ec38dbBE3376adDd86578E91E6E',
+  value: '160000000000000000',
+  tokenId: '336',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407282
+}
+data:  {
+  tx: '0x11313a91b1bd5b5a36b7958cf7574e13cec7ca2d05173750af2ec19b6202f822',
+  timestamp: 1634261691,
+  seller: '0xBd26005a404f2b28282d59a9AB2eBa465Bb05CA9',
+  buyer: '0xb1E079854268985431935ce53AA54C8e1722fA0D',
+  value: '119400000000000000',
+  tokenId: '898',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419760
+}
+data:  {
+  tx: '0xfd8e70f674218dc0560cad57d0040547b93c3724d57e203cf78a38a1bb299197',
+  timestamp: 1634100412,
+  minter: '0xA9009F089C6fcc3ca0186A28eCa26442243ff980',
+  value: '160000000000000000',
+  tokenId: '518',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408002
+}
+data:  {
+  tx: '0x037088f1d26cf792c61fb99d64c5faee4a25b2f9954c3bcd18778ea3d78d33cc',
+  timestamp: 1634242423,
+  minter: '0x354F95A3B3950D6DdE0E6C8E1C1432120bf0A07B',
+  value: '80000000000000000',
+  tokenId: '1018',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418383
+}
+data:  {
+  tx: '0x825147842e2514625675326381972fdbe56319079b19d8dd50a2424677319aaa',
+  timestamp: 1634263649,
+  minter: '0x0E692aDBDE792b5d1b0a79912cBE9c394Cb5aEe1',
+  value: '80000000000000000',
+  tokenId: '1371',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419915
+}
+data:  {
+  tx: '0xe8b28b6d5844600c04d50643f187f0d4e6ca3f92d487bd292a5aa57123096f30',
+  timestamp: 1634100205,
+  minter: '0x762c8B9FfE6B8B34C8667717eC9Ba07e53af1f7b',
+  value: '80000000000000000',
+  tokenId: '512',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407989
+}
+data:  {
+  tx: '0x0fa02af1d916d06bee4e048b1c2a50a464db19a397fed564cb4a914ef025b623',
+  timestamp: 1634270504,
+  minter: '0x161D9B5d6e3eD8D9c1D36a7Caf971901C60B9222',
+  value: '400000000000000000',
+  tokenId: '1402',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420409
+}
+data:  {
+  tx: '0xd1e402463d6a771cd2d78db7bf54acf0a6f5f1e5aa0caa1dea1c88a0bca57f31',
+  timestamp: 1634263488,
+  seller: '0x8346d0DbDBfa393fDe4652194B3f8715Cc51F665',
+  buyer: '0x5A9d2d6Fe9D949A02D96C6Ee7028625759b0b8BE',
+  value: '150000000000000000',
+  tokenId: '7',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419905
+}
+data:  {
+  tx: '0x88239e91fa155ea5fb0fa97f4db7343ab91bd93f2670f036210836568ec0b657',
+  timestamp: 1634133258,
+  minter: '0x20ea2015DbBE9c6841F86DA02A81CED211ee8220',
+  value: '160000000000000000',
+  tokenId: '758',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410371
+}
+data:  {
+  tx: '0x91387aa1b6c20f3541befbd58df3dafb06738822fe0ca10adac257a8e37ca919',
+  timestamp: 1634130422,
+  seller: '0xDcD082a4520929dcE240cD1E5233339f7e15c661',
+  buyer: '0xa017fF3F2776954D5656304889A86539d72cE656',
+  value: '109000000000000000',
+  tokenId: '316',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13410157
+}
+data:  {
+  tx: '0x9253fa75b98481aec1a6e44a60364a3962d3a5f7cf079763a9da5ea901768871',
+  timestamp: 1634117401,
+  minter: '0xE256A2893cB843e531e259E0C4Fc81a713a988cE',
+  value: '80000000000000000',
+  tokenId: '644',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409222
+}
+data:  {
+  tx: '0x125f723a95817491e48faf1d6290a8491a6c346719e01a99db95b823556a9abb',
+  timestamp: 1634089753,
+  minter: '0xfFaf86E0D3473Fc1BD9A40f386Ab2070877E1C50',
+  value: '80000000000000000',
+  tokenId: '314',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407249
+}
+data:  {
+  tx: '0x8474db9ebbb8a86ce09fa49d562796ace9c9f58fe73f9bf361aae02fe825fb1d',
+  timestamp: 1634189054,
+  minter: '0xBd26005a404f2b28282d59a9AB2eBa465Bb05CA9',
+  value: '160000000000000000',
+  tokenId: '898',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414459
+}
+data:  {
+  tx: '0x76072763a90a092ee29baec7f62bf5bfc346af4970ef6b3d3f2d0ebac0f2bd0b',
+  timestamp: 1634221360,
+  minter: '0x1aDfd330c9F0E993AFC7b6714de150f3B1F402A0',
+  value: '80000000000000000',
+  tokenId: '1011',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416826
+}
+data:  {
+  tx: '0xfe53d83f7067b76a28b11b870207afd3ba649785624c055512d131ceffbfbf99',
+  timestamp: 1634201195,
+  minter: '0xd44A03E9f749EC8921b759dAb139Bef65BB5936c',
+  value: '160000000000000000',
+  tokenId: '970',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415350
+}
+data:  {
+  tx: '0xc752f7f36dd714d41c66e096abb68024941c245939d8a71616d98b99c1c755e7',
+  timestamp: 1634089212,
+  minter: '0x1B2C5086CF9790d330D6C45a5194F3a068308763',
+  value: '160000000000000000',
+  tokenId: '279',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407208
+}
+data:  {
+  tx: '0xdfff37b2da2d8b29ab0058e894906f73553c76f7f59225f49a035ebd409be95c',
+  timestamp: 1634097461,
+  minter: '0x1E545bbb0cC33163fED5339f7a72167B53EdA13a',
+  value: '160000000000000000',
+  tokenId: '461',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407775
+}
+data:  {
+  tx: '0x28998190f730ee307d49ca7022a1e90545aa6b0728a76b41494cecc47025ca5b',
+  timestamp: 1634118328,
+  minter: '0x272567c6cbF3AECE671e3E737e5234CCb1fFE22c',
+  value: '160000000000000000',
+  tokenId: '660',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409298
+}
+data:  {
+  tx: '0x6637f0e3828ab545ff7d9fb57305ab2b575cc383a90aa299d08ec2c8a2d676fd',
+  timestamp: 1634088977,
+  seller: '0x542151F861b5432B36D04384f7E1730bF4942492',
+  buyer: '0x08bdF0F13C708D33449a2560af4db8d5dF6a3fE6',
+  value: '0',
+  tokenId: '234',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407191
+}
+data:  {
+  tx: '0x9deebd71ace38f84f54a31fdc77a1d1174a8be9afda61002994c551f0778ef48',
+  timestamp: 1634202080,
+  minter: '0x26F1f99ADAc941d630D8Bfdf881BEfB99868B4b3',
+  value: '160000000000000000',
+  tokenId: '976',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415405
+}
+data:  {
+  tx: '0x66a73abf6c0b410be6b2b5cf101ad3a8f5a4bd782f3ed58046018afbcca84c8c',
+  timestamp: 1634160787,
+  minter: '0x59357D0994Bc0E62e70f9a686C7449661eA6395B',
+  value: '80000000000000000',
+  tokenId: '809',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412418
+}
+data:  {
+  tx: '0xc41566733688f6b3baea8e10b3e082707a7fe4dc86bf7e7ec0ce67db51aa438b',
+  timestamp: 1634092551,
+  minter: '0x36Fa11f6715A5E440871F531030Ee4E94d7B9309',
+  value: '160000000000000000',
+  tokenId: '382',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407438
+}
+data:  {
+  tx: '0x4141886d6326673c3d2390014f6f4bcfa5e1651425e99a330e09b279d1213e6c',
+  timestamp: 1634132465,
+  seller: '0x8F475EA35aCB12c0Efa31c3907e0BB0312aaB6C3',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '300',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410309
+}
+data:  {
+  tx: '0x3c24b83380e3c3cca4ff262faf62efbe55a541ce78563ca781d6bb1620489662',
+  timestamp: 1634087924,
+  minter: '0x161D9B5d6e3eD8D9c1D36a7Caf971901C60B9222',
+  value: '160000000000000000',
+  tokenId: '179',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407110
+}
+data:  {
+  tx: '0x96ba0758f89cae1147dc9f9464cb2c917aa90c14348e3616b8c07e1f8a08fe86',
+  timestamp: 1634088916,
+  seller: '0xd283723e57659D26ee7dB620AECe3dEccb1B6CA7',
+  buyer: '0x5E32dcE6333f06c6A228a0DEd8e957b0Cc16abE8',
+  value: '200000000000000000',
+  tokenId: '31',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407184
+}
+data:  {
+  tx: '0x638a756d0babc3a8b8741657734072ba70b4e83014341fed6da4e902c8cdb894',
+  timestamp: 1634093854,
+  minter: '0x5f85FC0b6F4f7D6e531E66FeB65d2dfE284B351b',
+  value: '160000000000000000',
+  tokenId: '414',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407528
+}
+data:  {
+  tx: '0x131a4679a4f82348d39f52b7a052254b77247d43c55ddcfefcfcb23f66a8dffe',
+  timestamp: 1634261816,
+  minter: '0x9e73F8372515AE24D0A4A16874b2d816E3323846',
+  value: '240000000000000000',
+  tokenId: '1345',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419767
+}
+data:  {
+  tx: '0x729852afbb5dbb8bdd75db6b207c6af0d3d50fbc36176e85432d7f9726a8cb3c',
+  timestamp: 1634254153,
+  seller: '0xD744aDD88B1058234fa9bbA5C58Da7473FB8D187',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '0',
+  tokenId: '983',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419252
+}
+data:  {
+  tx: '0x6a58125b35d7b23a5a3daab2db08b72e6f6ae8f71e6476282848e85287bde4fe',
+  timestamp: 1634113483,
+  minter: '0xB6338e154C4A6FE0d0A0134B7D7D063F1d6A0722',
+  value: '160000000000000000',
+  tokenId: '622',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408958
+}
+data:  {
+  tx: '0x443ca89346700910234c166d9aef3c2adbdceb62f8bfdfe447a12bdebae5f400',
+  timestamp: 1634087299,
+  minter: '0x7877C6b4293EC94823e393899010cbC9872a50F7',
+  value: '80000000000000000',
+  tokenId: '84',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407061
+}
+data:  {
+  tx: '0x2cf5b3dd481789bec02384739a0effb19e87e15af3e45f3e19f974c51beb5298',
+  timestamp: 1634204877,
+  minter: '0x374B1685BBf135d542B491F6e4e6BbA2C76eDbD5',
+  value: '160000000000000000',
+  tokenId: '985',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415625
+}
+data:  {
+  tx: '0x6a157e003c5d44224563a2588aa1c0134213b2d065ebc3299bc0b4645e1bb8ad',
+  timestamp: 1634212244,
+  seller: '0xeF6405617ba07815765F437D22855B37dDdFe08b',
+  buyer: '0x3c0156B76e4856cCD8eEFA0Ac13F94df1179221e',
+  value: '0',
+  tokenId: '997',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416146
+}
+data:  {
+  tx: '0x7ee2e43ea0a6a5de72fbc4f1f83ff66dfe3b44e28828cc579501ec91127096a9',
+  timestamp: 1634152979,
+  minter: '0x00fe481Bc24B4f1334865FC0414756B3E9E3E893',
+  value: '80000000000000000',
+  tokenId: '795',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411803
+}
+data:  {
+  tx: '0x5ad981fd206d503f706f033bd7e3d44d569196b4bd30fa1fc42675860d963afe',
+  timestamp: 1634261521,
+  minter: '0x436f02F4671eF37a2611e0770e668DF0FFd2F01d',
+  value: '160000000000000000',
+  tokenId: '1325',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x8c94932ab7682630a75d3b9d747ce3f24245df916c16f963e3bfe033dfaae0a6',
+  timestamp: 1634268572,
+  minter: '0x06D44c61D4AC23c7A3c04ab1b87771526A2b1d34',
+  value: '80000000000000000',
+  tokenId: '1397',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420271
+}
+data:  {
+  tx: '0xf075aa97c7a8596e6d1ec13eed532ace90de2ff307438c89a34186cbb7c93533',
+  timestamp: 1634259928,
+  minter: '0x864B73589657D9d99AA3dFDfff6dBF8Cc221EfC1',
+  value: '400000000000000000',
+  tokenId: '1167',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419641
+}
+data:  {
+  tx: '0x19a1181a58d1a2b418ee611153d2e90e773f91f2f76de4c17f0cc5789603f043',
+  timestamp: 1634267621,
+  minter: '0xcC958fab56f4d46FDd2A38daab7c999225F62FCd',
+  value: '80000000000000000',
+  tokenId: '1395',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420197
+}
+data:  {
+  tx: '0x4d4369626bddb45182acd15ee81c060fd5247cc77468df56f162312378c0a686',
+  timestamp: 1634087650,
+  minter: '0x0aCE88B44C8010c81A6fd133F7D9f47ca79E6b64',
+  value: '80000000000000000',
+  tokenId: '153',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407089
+}
+data:  {
+  tx: '0x4443bb73dbfb25c8d2622c51d0b8acf29bd8ed3deb4da451341bed7b3c6872d0',
+  timestamp: 1634261239,
+  minter: '0xdFa8B9C4ebe4F69Ac36Ce462dAdD2E1c64482346',
+  value: '400000000000000000',
+  tokenId: '1305',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419724
+}
+data:  {
+  tx: '0xa9d91e7123625e2cae9a3dfc3d7c6f5e86b533c9d34b21d9d11519692b52a53d',
+  timestamp: 1634253769,
+  minter: '0x817338C2982057f7B3481584d00c4584606CF16e',
+  value: '80000000000000000',
+  tokenId: '1032',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419219
+}
+data:  {
+  tx: '0x92836991ff47782b871ec38bf6bdce255d79e9061d678f359fe47dc292b764bc',
+  timestamp: 1634116333,
+  minter: '0xc059CFfFB7073314a5D363291abAc0ddbC946379',
+  value: '160000000000000000',
+  tokenId: '636',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409162
+}
+data:  {
+  tx: '0x3eea7252401d5cdd3401c6e8c3fa34779e0b576e86559dfc9c92ed071dad55c6',
+  timestamp: 1634161031,
+  minter: '0xb6f904c71D25c484e7F70f17fF9B9B2B2465d59E',
+  value: '160000000000000000',
+  tokenId: '810',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412440
+}
+data:  {
+  tx: '0x1fe0918940a17f3bf0a7f81fcf7390de09968e56ee9d7f8848ee9fc8f8339eec',
+  timestamp: 1634190731,
+  minter: '0x3f8E98be6fcd59c0204b1C779BF6BF1c9d153a67',
+  value: '160000000000000000',
+  tokenId: '922',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414585
+}
+data:  {
+  tx: '0xa960950ef068dd627320062816d6a806fce1946cfca6cff9b41d6e3d40166df4',
+  timestamp: 1634087135,
+  minter: '0xbf5928C1D26d956805bBBfb6986b445B737618DD',
+  value: '160000000000000000',
+  tokenId: '46',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407049
+}
+data:  {
+  tx: '0xdccb06877724e04c0d9e5aae9687b38fa740aa588223753e1ae42e4aa7b2d476',
+  timestamp: 1634180001,
+  minter: '0xE9c52cE2001838D4CE3055043bC912098Efb4b53',
+  value: '160000000000000000',
+  tokenId: '843',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413806
+}
+data:  {
+  tx: '0x0efb08d7b1a78578f0f04ea18fb634a34aabfff32b0ab8fce5426c808b2de4c9',
+  timestamp: 1634087407,
+  minter: '0xe957B0829C6Ae6ac461d7365b7927E1Ff604114b',
+  value: '80000000000000000',
+  tokenId: '107',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407067
+}
+data:  {
+  tx: '0x97eb94d8eb1a0815f4cdd47cb6fd45b959d5fb7548738daf034d1fbe38bd96c6',
+  timestamp: 1634089322,
+  minter: '0x9a22A348CB3d4Be207Aec0d45267671cd68Ae2f9',
+  value: '160000000000000000',
+  tokenId: '295',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407219
+}
+data:  {
+  tx: '0x68e1ed4cb47788851febd2fbe37cff9008b37d219f0ec0247d3ba7541d845912',
+  timestamp: 1634257142,
+  minter: '0x5CBC533B539969e4fE0B8ef14F8d187C86e22Cf3',
+  value: '80000000000000000',
+  tokenId: '1038',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419445
+}
+data:  {
+  tx: '0x891dc4ca19b62ecf04c6c10f62e4e9f22f7c1275d2f77335b33d4b0669a6eec1',
+  timestamp: 1634203828,
+  minter: '0xEa66f33Fb201953316dcB3a96054B664eeD7c04b',
+  value: '80000000000000000',
+  tokenId: '982',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415550
+}
+data:  {
+  tx: '0xd398be6511260187e0fa2befc7e5d39ac8db88b4c4adb5503f44e9d72c256d05',
+  timestamp: 1634138436,
+  seller: '0xEc2f3CCB32D4B311909901F2c8455A37aA6C094E',
+  buyer: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  value: '0',
+  tokenId: '769',
+  contract_id: '0x14a3DfB0F95eB09ec19099842D184A3b7Ff88765',
+  blockNumber: 13410743
+}
+data:  {
+  tx: '0xaee081376c244aebd22abca3b0a5af82fee9928e0132a9abbcb58c278b9c23cb',
+  timestamp: 1634122878,
+  minter: '0xAd5aC6e03F3C0aBa35BF8C978322813b4D796499',
+  value: '160000000000000000',
+  tokenId: '691',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409621
+}
+data:  {
+  tx: '0x43f3286ec1ece8c4eed1f11ba2ca85cdcb33fb05edb2d45d38de4b8944df2824',
+  timestamp: 1634139607,
+  minter: '0xEeD69fc2faBE84FE4fbC995ce35bB287d2a80a76',
+  value: '160000000000000000',
+  tokenId: '778',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410826
+}
+data:  {
+  tx: '0x86a57bc9c1c628d5ec6008a5ba3b45220f9bfe465ff936fddd498dfed47d7fee',
+  timestamp: 1634160014,
+  minter: '0xAd75835a3581046E639bD19e98011736df4DE861',
+  value: '160000000000000000',
+  tokenId: '805',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412349
+}
+data:  {
+  tx: '0x1d3792334313e7343843fd2c0df71af1c9527aaf8cdfe4be2e80646a0553503f',
+  timestamp: 1634261418,
+  minter: '0xC06ADa526fC0632501678ad3792dd5aA3aB099A0',
+  value: '80000000000000000',
+  tokenId: '1310',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419743
+}
+data:  {
+  tx: '0x68d18ae3dd0ce9587a7bba6a2d90879b4e35a31ea59273c00929e206dd333e2e',
+  timestamp: 1634260298,
+  minter: '0xF993D5474Cd607e26B57E1dE1556bee36De2D0e9',
+  value: '160000000000000000',
+  tokenId: '1232',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419663
+}
+data:  {
+  tx: '0x3f46a3f4c527eacfce3f7bf4503d7b287cf5d088a950b47c4344a687270cafd0',
+  timestamp: 1634241934,
+  seller: '0xc50ecD9105F531EEa9c6C260f67eE007e808Cfad',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '119900000000000000',
+  tokenId: '277',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13418346
+}
+data:  {
+  tx: '0x5670b91231f3ca9e5156c8fa753afbb0e38bf227f0bf9f2b63ebe0902ad8bd97',
+  timestamp: 1634118052,
+  minter: '0x8E2Fe9250F97d8bA2D59aAc671f03FF667b011E1',
+  value: '160000000000000000',
+  tokenId: '656',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409271
+}
+data:  {
+  tx: '0x57cebf78a056ed55dfa3799ae3cbcef6580d51e6d2c3c9ab02b4fa11f63309fb',
+  timestamp: 1634212367,
+  seller: '0xeF6405617ba07815765F437D22855B37dDdFe08b',
+  buyer: '0x3c0156B76e4856cCD8eEFA0Ac13F94df1179221e',
+  value: '0',
+  tokenId: '998',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416153
+}
+data:  {
+  tx: '0x9ded716c1949391d77366420bce13b5ac02e183445183cf48c292f70105a7d36',
+  timestamp: 1634261626,
+  minter: '0x690110541FFA703A40E8297B8ee42F73E9761b77',
+  value: '80000000000000000',
+  tokenId: '1337',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419754
+}
+data:  {
+  tx: '0x8427d068f53377eb18fabdcf4dce6b508f331eef7d33cd7ad90e842f7f59779c',
+  timestamp: 1634087515,
+  minter: '0xda2AF11B1337A3D724Eb4e84E3c95F2781b79126',
+  value: '160000000000000000',
+  tokenId: '125',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407081
+}
+data:  {
+  tx: '0xd0989952cbf26e9292e5aaa3992f77bdead198e83be02324e48694b52abbdbaa',
+  timestamp: 1634261900,
+  minter: '0xC5c0A131303dfAB5fB8bcE3052BaB9326629da3d',
+  value: '400000000000000000',
+  tokenId: '1358',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419772
+}
+data:  {
+  tx: '0xa8f0a4190f5ae98591a404482bd7a7d5e133ca53aaf53168267cb23af753e654',
+  timestamp: 1634129526,
+  minter: '0xbf60072DFF0D769F71e21c3769E44395fBbA465a',
+  value: '160000000000000000',
+  tokenId: '742',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410096
+}
+data:  {
+  tx: '0x3a952ae9415694daa122518482037b6457011dedf590ec80beac1b6094770697',
+  timestamp: 1634211997,
+  minter: '0xf4595Bb10120b2875dF0DE3065a5e123e42C67D3',
+  value: '160000000000000000',
+  tokenId: '1002',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416128
+}
+data:  {
+  tx: '0xe6411a49b8ad3a50cfa5b8b35f4fc0004f93a905095c0b92c2cd1d7851a104fb',
+  timestamp: 1634264983,
+  minter: '0x057F1b40aF026bD57eA3AC9Da0ca518bDB031255',
+  value: '160000000000000000',
+  tokenId: '1384',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420008
+}
+data:  {
+  tx: '0xeb9f23c4ae5bc4caff4e9dcea0d60097a23fefb30cbcb3341f015eb1865c7347',
+  timestamp: 1634261521,
+  minter: '0xA67A8c9CF4BEC0b42Ad743496d7a1a0e1f019733',
+  value: '80000000000000000',
+  tokenId: '1334',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x6d2ab246253898c794f3047f5b83a1f565938fb79a4b5ac7a76ebb3dff88b677',
+  timestamp: 1634128404,
+  minter: '0xcFec2B4172ad1d1c6717CF0ccF5435b8c4472058',
+  value: '160000000000000000',
+  tokenId: '735',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410013
+}
+data:  {
+  tx: '0x896aad4d10f4e337619095e1625f85884f576671296c0cdd845262ce1358df03',
+  timestamp: 1634207674,
+  minter: '0x57A0eb77b61cfF5Eea29f5b3CDA530366719A84B',
+  value: '160000000000000000',
+  tokenId: '989',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415811
+}
+data:  {
+  tx: '0x96ab56cafa52d6b5862717721e7ef5513987a1c8edeaa245c424bd44983d92a8',
+  timestamp: 1634173221,
+  minter: '0x2CBE431586cDc3A2949C23Ba131872A72a33Dc6D',
+  value: '160000000000000000',
+  tokenId: '831',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413329
+}
+data:  {
+  tx: '0x95d66be2f8479f628098e9827c8f664e684d2034d9a8805624132b624addcf04',
+  timestamp: 1634190683,
+  minter: '0x7CaA9140B1DBA23A130D09f1d6CBb5F4e0a92211',
+  value: '80000000000000000',
+  tokenId: '921',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414578
+}
+data:  {
+  tx: '0x78ad85ae83ea4b20618669ad63c619de4b1ecbf0c660ca9faac451dd64eca2ec',
+  timestamp: 1634214470,
+  minter: '0x1aDfd330c9F0E993AFC7b6714de150f3B1F402A0',
+  value: '80000000000000000',
+  tokenId: '1010',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416320
+}
+data:  {
+  tx: '0xef69a5f5ceecd92ec143f2121801a955338049be3b8c215eff14e07b224cbb73',
+  timestamp: 1634161411,
+  seller: '0x1B2C5086CF9790d330D6C45a5194F3a068308763',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '280',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412471
+}
+data:  {
+  tx: '0x6fafb832c94b9bee93e22c578e7b3f4433198a711242323b5c5dfefc69d7aeb4',
+  timestamp: 1634100412,
+  minter: '0xa0f2aCCCdF6A137e9297CC75F00EE50e6c24BaD8',
+  value: '160000000000000000',
+  tokenId: '515',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408002
+}
+data:  {
+  tx: '0x218607cbd56f0c905d289e1afc189dcb303006837d92c8bf96cbd4356361a547',
+  timestamp: 1634093920,
+  minter: '0xc373e4A4f35cf187A39ED853e1882Be54d8739e1',
+  value: '160000000000000000',
+  tokenId: '421',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407534
+}
+data:  {
+  tx: '0x963122923e557ccb9516ae137e9397eb3142fb9fd118f003032beab1ed4b3f6c',
+  timestamp: 1634088837,
+  minter: '0x3BCc3CBCd78114a046874D04923E7E00b69df930',
+  value: '160000000000000000',
+  tokenId: '254',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407179
+}
+data:  {
+  tx: '0x6b2228ac17c99f6c613393d803d81cf495026b1f1390af7c7bbfa957098fe156',
+  timestamp: 1634237163,
+  seller: '0x99506dBAf215c9CBa97E1219845c6a59B58c5C3a',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '115000000000000000',
+  tokenId: '967',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13417990
+}
+data:  {
+  tx: '0xb2b0829dc8a7e7b7bf81dd4bbdc5419c7450b1f42218dd5371e19e079c6a50da',
+  timestamp: 1634261583,
+  seller: '0x7937Fe5E2b19629184285178AC9D712157408075',
+  buyer: '0xb1E079854268985431935ce53AA54C8e1722fA0D',
+  value: '111100000000000000',
+  tokenId: '836',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419753
+}
+data:  {
+  tx: '0x1971e2283ade366bfebe1356b4116468c1a872f96ffb30db905abc2a3b86244f',
+  timestamp: 1634264939,
+  minter: '0x7D60074F81F840763D971a6469683dB5B6f991a5',
+  value: '400000000000000000',
+  tokenId: '1379',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420003
+}
+data:  {
+  tx: '0x2f2d5e248a796b3ba63bdb889857deab1a54dad9fc12113ac323584fe6d10594',
+  timestamp: 1634207878,
+  minter: '0x3BCFfCE48Ef2f1f699A677c15d2539727E848c0F',
+  value: '80000000000000000',
+  tokenId: '992',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415824
+}
+data:  {
+  tx: '0x22c580a5c946bc11530bcbd3abb41e82308ba7b790c54f1b0ca2db50c42aef9e',
+  timestamp: 1634188780,
+  minter: '0x334d5a703CA06425675dAfA35ffEb43d5b444cB2',
+  value: '160000000000000000',
+  tokenId: '874',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x275fb4a8a398bcdce36b407aec20fa7ad825c42fbee92473337bcefe5e07789f',
+  timestamp: 1634213698,
+  minter: '0x741aaEA52E2D9C815c6c0B9512e956D7094a2933',
+  value: '160000000000000000',
+  tokenId: '1004',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416266
+}
+data:  {
+  tx: '0x5883b55805aea954f1da2b2593216ac0312f0f1cd96280cef76eb1261560f8e4',
+  timestamp: 1634241509,
+  minter: '0x66633Daaff3A518587C3BE4d464A1e6ae3576994',
+  value: '80000000000000000',
+  tokenId: '1014',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418311
+}
+data:  {
+  tx: '0x52e92f49a40cb0fa4994c5fd10b5223289b38fc9d6c57471b139c75f912ba741',
+  timestamp: 1634090315,
+  minter: '0x2D6F47a0Afa5E95f6f3E85153121383AbFA05106',
+  value: '80000000000000000',
+  tokenId: '346',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407293
+}
+data:  {
+  tx: '0xdd4e5056f0dfa9cf51e4b8927ad2f4f8abd03510cbc3eef870977c8e2064a202',
+  timestamp: 1634191929,
+  minter: '0x8f289FDee17AC14fD4F6Af03663Aae19A6959015',
+  value: '80000000000000000',
+  tokenId: '931',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414670
+}
+data:  {
+  tx: '0xdec62771865503ee879e1e9e83548f16ece7b79155b444c017d2008dfaacfbd5',
+  timestamp: 1634127354,
+  minter: '0x185Bf311fBF22f17b4A766132E8DC89656f68475',
+  value: '80000000000000000',
+  tokenId: '729',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409943
+}
+data:  {
+  tx: '0xd29359aa8fbf3ed6c36afb6b0f2e81674f7c1f3b919bd776f260f74168d7de87',
+  timestamp: 1634151630,
+  minter: '0x74542D2F304187354237bC15b86f50753DD1b31E',
+  value: '160000000000000000',
+  tokenId: '786',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411676
+}
+data:  {
+  tx: '0x2fb7b2d78d91b7cc2c709faf9d7db45f466350b1f69794a4dbfb3b03ac9f1bbf',
+  timestamp: 1634210657,
+  minter: '0xB89cCe0098aDeaB818941e3E34f8C80F468284aD',
+  value: '80000000000000000',
+  tokenId: '999',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416024
+}
+data:  {
+  tx: '0xdc6892120a524d532bdbc42cc8520e45d98df5dc92dc48d1f0680accd18869ac',
+  timestamp: 1634259718,
+  minter: '0xaBEdEa173De4c4Dd9297856faB81115E841A8E37',
+  value: '320000000000000000',
+  tokenId: '1082',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0xb938e1b62a1e8942193a639232192c3e17529941df603fe344d508b3429d9fa7',
+  timestamp: 1634161997,
+  seller: '0xDcD082a4520929dcE240cD1E5233339f7e15c661',
+  buyer: '0x86597B6ca2643b2CA4b324Cca2BD905691E7De46',
+  value: '90000000000000000',
+  tokenId: '315',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13412518
+}
+data:  {
+  tx: '0x9785251975e8783ad79a36fd8f7642f532a3812cf86cc842bdc311d92dcf5fbf',
+  timestamp: 1634207741,
+  minter: '0xa976c7c97f5A575a4e02E16bD68348689Ad4F86A',
+  value: '80000000000000000',
+  tokenId: '991',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415815
+}
+data:  {
+  tx: '0xb9e87b6f9618db0954cdb89ad42799989d1f31360aa64c877c7d0465a6bfb2c1',
+  timestamp: 1634140655,
+  seller: '0xB0413F68Dba511892829e749c232De98A1427543',
+  buyer: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  value: '0',
+  tokenId: '777',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410904
+}
+data:  {
+  tx: '0xc05c30d34c10c9b01394c330a1651bb28d0d71f52b846b98c0192f0219d31b55',
+  timestamp: 1634193334,
+  minter: '0x777d1363CAee99E50E68789D6C5bD8F5445988b5',
+  value: '160000000000000000',
+  tokenId: '940',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414777
+}
+data:  {
+  tx: '0x1ce5d4c9879c2d7afe2a2a65007a04d90531523b0257c60aad76cac97bf008ec',
+  timestamp: 1634087249,
+  minter: '0xd91B09e134aef316742ee56817514aC896dD9b92',
+  value: '80000000000000000',
+  tokenId: '71',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407056
+}
+data:  {
+  tx: '0x3862d5c3286d231b016cda656fc065a7fad97ac3700a6c149ed8280f8dfcb60b',
+  timestamp: 1634122186,
+  minter: '0x630F3E0615094504D84A1da4c31F832004eb5Cf5',
+  value: '160000000000000000',
+  tokenId: '684',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409574
+}
+data:  {
+  tx: '0x252d946243b9b194b9bca6c09e0dc2befb1443ca7ba61537a6bcd74d3b393350',
+  timestamp: 1634180330,
+  minter: '0x18f1C054DAd2b2442d3b33adbD4c96b322f61915',
+  value: '160000000000000000',
+  tokenId: '847',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413826
+}
+data:  {
+  tx: '0xd6a2c75f6a6c1a0215d7296b61290f2fcd4045df3d4b00192ba21cd46a329876',
+  timestamp: 1634178966,
+  minter: '0x084B40C73787a868D1641a494E82bAf8e61d8a5C',
+  value: '160000000000000000',
+  tokenId: '841',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413727
+}
+data:  {
+  tx: '0xf9469c778ee31faf351091fc4cb7612e9cdad7b7fd4531e9211af83204d3fecf',
+  timestamp: 1634261542,
+  minter: '0xC9B2e9F381ED6c62720f97039c835Ffb59668fdb',
+  value: '80000000000000000',
+  tokenId: '1336',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419751
+}
+data:  {
+  tx: '0x35058e5d244da610eda68e4f5b268ef39e2c0bb3df5de04414b4c1e9f6f22708',
+  timestamp: 1634264939,
+  minter: '0xAc334Fd2355eD58cfC89b69EF9BC9656A9d818E7',
+  value: '400000000000000000',
+  tokenId: '1374',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420003
+}
+data:  {
+  tx: '0x50a0b3a595a63da7a56531a12c21f7f5b87554b27dcfe8ef497fb8e207dcd1a2',
+  timestamp: 1634204662,
+  minter: '0x257C85f960E9A4C0638C296B731a5C81e5d2b803',
+  value: '160000000000000000',
+  tokenId: '983',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415610
+}
+data:  {
+  tx: '0xefd6ac969b9cd4c48255d0eae5dd4b9cece5af0d3f2340eab14edf57f3fca030',
+  timestamp: 1634092927,
+  seller: '0x0c3699715DE1739eF5a8a0F3a667a7092EE7e0B4',
+  buyer: '0x0Bd9c0c963a2c34AF773C0adCEb31A9181D73218',
+  value: '130000000000000000',
+  tokenId: '305',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407464
+}
+data:  {
+  tx: '0xb07bbaf618a05be1fa5ba4b9cecd0be24e54fb60ef561ee0e78fc4ef21323814',
+  timestamp: 1634261521,
+  minter: '0x20CE68B0A875023D1CE516A928a082ac5627FA7f',
+  value: '80000000000000000',
+  tokenId: '1313',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x5779dc2c20997fc19897cd463ade8686386c36c0d73df2aa3ced660eb97129a6',
+  timestamp: 1634188560,
+  minter: '0xDBa2c5eA460c9D3F8FBf4aE3eF0e159527FA15be',
+  value: '160000000000000000',
+  tokenId: '870',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414417
+}
+data:  {
+  tx: '0xe38ccbf4927425786025e3b5f3a84a0ecbc05cb74717cbfd298066d918b985e2',
+  timestamp: 1634087598,
+  minter: '0x7C48b51E652404A1ad53c4425Cac32aD2d274D70',
+  value: '80000000000000000',
+  tokenId: '138',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0xd6d6bf75e2936aadd115da790354f33a62a8101c3750d31b7b6a4abb36e6a97b',
+  timestamp: 1634173058,
+  minter: '0xa9f99a9e1A896ADb7296d0Ed70Bda315F493072F',
+  value: '160000000000000000',
+  tokenId: '827',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413311
+}
+data:  {
+  tx: '0x2c2991161a33f7584f24ba55e867017daaabca60fed8c8de6313238e5fa85f2c',
+  timestamp: 1634087598,
+  minter: '0x90eBBdcd83B62C5528b4c95C58cfc5c054159836',
+  value: '160000000000000000',
+  tokenId: '135',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0x13da7bb67f2df011d3e3aad4ae8ddbda3b292431d6e7b91a2319fcbcd7418f19',
+  timestamp: 1634253746,
+  seller: '0x257C85f960E9A4C0638C296B731a5C81e5d2b803',
+  buyer: '0xD744aDD88B1058234fa9bbA5C58Da7473FB8D187',
+  value: '111000000000000000',
+  tokenId: '984',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419216
+}
+data:  {
+  tx: '0xb528b63f5a2f2d559c6dbc2fc21542fbd31ff5d2e3a2a6d1e3c0294b21857c91',
+  timestamp: 1634210685,
+  minter: '0x8eb46D1eFAE1cE545369f1F17859cE48322B79Fa',
+  value: '160000000000000000',
+  tokenId: '1000',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416029
+}
+data:  {
+  tx: '0xf8f13e7977edaabe94d716ed79bf88453be929116877e8157c7ad6104f347042',
+  timestamp: 1634259752,
+  minter: '0x89BD26919E642484ac888ba689F7353DbEfeb414',
+  value: '400000000000000000',
+  tokenId: '1117',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419630
+}
+data:  {
+  tx: '0x9ead4be0b3e837da3e3d31413df1873cf45c9aa52bba632b2a178ed6f94cfbf6',
+  timestamp: 1634175279,
+  seller: '0x1f85aA3b8DDda2f94391E196241aD728d24e7f3D',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '100000000000000000',
+  tokenId: '457',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413464
+}
+data:  {
+  tx: '0x506cb3778a84f0911347c2474ba18b63fc916f9174afa4071ff4e9fcccaf313e',
+  timestamp: 1634196813,
+  minter: '0xa1Afb24302ABFD0c099369E141591ab0cC39e8Bf',
+  value: '160000000000000000',
+  tokenId: '952',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415039
+}
+data:  {
+  tx: '0x7c6f6e35ed3001b804dcd8eee93c12df61b352e07b540a7126d021f829f80834',
+  timestamp: 1634182731,
+  seller: '0x809C41B7d0235CaB16a9BBf442F2af7a21A360B8',
+  buyer: '0x614ef48f3Db5544A33c148921352Ccb32ff480dF',
+  value: '0',
+  tokenId: '851',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414000
+}
+data:  {
+  tx: '0x5d75391e8ceec53456bb7f6bcaeedfc06a12e33ef39088c9a5592b70b9820689',
+  timestamp: 1634087358,
+  minter: '0xFD9681499aa71bA1EdAe41b6534acF55126FAd4d',
+  value: '80000000000000000',
+  tokenId: '95',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407064
+}
+data:  {
+  tx: '0xdcc385553c608855447391a61cf2fbb6c1cd82115b70348ab51e518939d8846d',
+  timestamp: 1634252369,
+  minter: '0xEf9f63D250e23a69Ada643932B7ab3DBB4294B3d',
+  value: '80000000000000000',
+  tokenId: '1026',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419118
+}
+data:  {
+  tx: '0x6b17c6442193fc2079204158b379c49a8850a82fcb693434178c7a2ee2203bf4',
+  timestamp: 1634088227,
+  minter: '0x06D44c61D4AC23c7A3c04ab1b87771526A2b1d34',
+  value: '160000000000000000',
+  tokenId: '224',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407133
+}
+data:  {
+  tx: '0xae4c8f8a319e5b38e1f32df0a493306aae9856f53b800449f07189e7fa713647',
+  timestamp: 1634239008,
+  seller: '0x624E284F2038Ee110674f65D6B631bEFfe0c2e71',
+  buyer: '0x72cA0a003804446aABB63926d4b5bA1DaBf5Eb86',
+  value: '0',
+  tokenId: '437',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418125
+}
+data:  {
+  tx: '0xa2ca6ddb1201b2ebe848d498f38f474a49f23f21b6be6e60a02814184b7ea7ba',
+  timestamp: 1634087598,
+  minter: '0xcd08711cbCd3d253aeAf7Bee0e96C113c38311Bd',
+  value: '160000000000000000',
+  tokenId: '131',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0xe3e31e2d6027181cf17094491e46725cd6f4454857c6df4f6c2f7faf1124e0a5',
+  timestamp: 1634087358,
+  minter: '0x070304e4907673bDe099617481Ac3Ff3648037E8',
+  value: '80000000000000000',
+  tokenId: '98',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407064
+}
+data:  {
+  tx: '0xa8fc8e852fbfe0f7dda42ae108dd254f5f67d283d840e0b366466d25c41ddcef',
+  timestamp: 1634182006,
+  minter: '0x809C41B7d0235CaB16a9BBf442F2af7a21A360B8',
+  value: '160000000000000000',
+  tokenId: '850',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413951
+}
+data:  {
+  tx: '0x7e540d27edc710c6fa726764f080ac509656bdd2fc262cb6b2c6da6e5d5883e0',
+  timestamp: 1634259805,
+  minter: '0x0aCE88B44C8010c81A6fd133F7D9f47ca79E6b64',
+  value: '240000000000000000',
+  tokenId: '1132',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419631
+}
+data:  {
+  tx: '0x5703aedb7bb6d2a2eab74096f682b5ff5e6fd446277bcbccb24f58527b11b1ce',
+  timestamp: 1634254030,
+  minter: '0x78fAaBb8836c226bcF4Bd97D8e0B8f14634bf4cd',
+  value: '80000000000000000',
+  tokenId: '1034',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419240
+}
+data:  {
+  tx: '0xabb4ee2de802d96d83d303e27bdf98bd529d91da99b53edc8f0002413f5f66f0',
+  timestamp: 1634244299,
+  seller: '0x6f38220d3534D1BacceeFF9BC9B1328082527c27',
+  buyer: '0x231715987c968c786ce3ED0Fb6dD67890726cfc1',
+  value: '0',
+  tokenId: '915',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418523
+}
+data:  {
+  tx: '0x8f9c3da4e5c701b0504fb29f8bab52e0aeb32e50f1aeeb6240fd5b2f5f33e244',
+  timestamp: 1634087244,
+  minter: '0x799681a8af9f13fa3f41b5276e23604A5e2f6C61',
+  value: '160000000000000000',
+  tokenId: '58',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407055
+}
+data:  {
+  tx: '0xdecc1ec43716dcc3605301c526df66e637b535b62933446566426d439d34c772',
+  timestamp: 1634088466,
+  minter: '0x6254F6B5A8836dba6e00B8529186dE063c0f2c96',
+  value: '80000000000000000',
+  tokenId: '243',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407151
+}
+data:  {
+  tx: '0xf911db149c9280968c4f8a9ae9bff2e8601b4be3f640537f5e27c4ac07b51d2d',
+  timestamp: 1634117977,
+  minter: '0x51eB5Ea3FE56E37ecE8942A2CC02cD8353ce358B',
+  value: '160000000000000000',
+  tokenId: '653',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409266
+}
+data:  {
+  tx: '0xd3a5129191691356bfe7aad4380ba8a293fe17f87656674042bb056776b9f4f5',
+  timestamp: 1634199695,
+  minter: '0xfb716561e917709912FbB819eBE54978C750398D',
+  value: '160000000000000000',
+  tokenId: '964',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415243
+}
+data:  {
+  tx: '0x42f7c6f3105440e86242a54b96b65d7a028d4dc3dc3d30eec28780cb04637d92',
+  timestamp: 1634261521,
+  minter: '0xEE612DE941F245fDe0eCA2b6092720B7eb4758Ec',
+  value: '320000000000000000',
+  tokenId: '1328',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x5bbfa725320b47878319e776f7ee48c00259a52b9d726bc92de01e7b4e418d25',
+  timestamp: 1634087727,
+  minter: '0xF993D5474Cd607e26B57E1dE1556bee36De2D0e9',
+  value: '160000000000000000',
+  tokenId: '157',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407094
+}
+data:  {
+  tx: '0xdb4abbe5b516e813589ef5554538ce4ced9b39b2abd43082ef94f209020c0915',
+  timestamp: 1634254091,
+  minter: '0xDe381Bedf480a0E291E8cC9B9c101B8fA51e22de',
+  value: '160000000000000000',
+  tokenId: '1035',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419245
+}
+data:  {
+  tx: '0x59e5b3e643fe86de1263b16fac15a7291bef5c170a5892406e6163cdcb00e9cb',
+  timestamp: 1634089711,
+  seller: '0xFd53da9065DC055c99ec4a4e351FB2f863bd75da',
+  buyer: '0x828e08E545D16D5b3aeE56Bff3e173c99Fcb3b4C',
+  value: '0',
+  tokenId: '284',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407245
+}
+data:  {
+  tx: '0x6f4930d273a4a58a09f78dc7fad0af81dad31d7cd9a10b858a76906294d1b699',
+  timestamp: 1634087598,
+  minter: '0x8cf3BF4a523DB74b6A639CE00E932D97d10E645F',
+  value: '160000000000000000',
+  tokenId: '133',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0x04c0b905bc788fd3c9ca50b03f14a397ac6e4403fbc262112bf5b260b0030a2f',
+  timestamp: 1634141076,
+  seller: '0xa7F839D3da865811B6f30B61F90ED9395Ba00C41',
+  buyer: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  value: '0',
+  tokenId: '782',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410934
+}
+data:  {
+  tx: '0xf589697921ee7e3f2ff581a6054b7551a925d8519a809c9125aefbc824e55af0',
+  timestamp: 1634259752,
+  minter: '0xc495ad35FD5AE432970087773cbb87C9ec70aEbd',
+  value: '400000000000000000',
+  tokenId: '1122',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419630
+}
+data:  {
+  tx: '0x656dc8419b3359e654ffcbba2cca17392c1fb29c99f74724c37c28b9b2fbb40d',
+  timestamp: 1634177214,
+  seller: '0x646AacE7E9B39BF64f007DCdB3D9abF06D9EbC89',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '150000000000000000',
+  tokenId: '298',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413602
+}
+data:  {
+  tx: '0xcc0d79eac5a50dd0581455aa74f6b35a480e4312b68373b02730ce8d655f0c46',
+  timestamp: 1634258758,
+  minter: '0x920Dd67581aB35619c5709DB9D8DD39bbB816Bf3',
+  value: '80000000000000000',
+  tokenId: '1042',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419560
+}
+data:  {
+  tx: '0x1cb51c1058fd7f897521470547c3d896af0a847945d7d6665d1f99f903ccf8f3',
+  timestamp: 1634114745,
+  seller: '0xDa7b063B9e3D917f9899914809499Dc4Ec4620db',
+  buyer: '0xB6338e154C4A6FE0d0A0134B7D7D063F1d6A0722',
+  value: '118800000000000000',
+  tokenId: '505',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13409054
+}
+data:  {
+  tx: '0x7f96dcffb88d60586364fb1421bbc9071c011e737d01c879a58ed3dd04ea542f',
+  timestamp: 1634106819,
+  minter: '0xC661b1216f7425B50a2fF3e523Cac0Bb1F747F42',
+  value: '80000000000000000',
+  tokenId: '570',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408476
+}
+data:  {
+  tx: '0xa4e5bd314373b7f4feeeab8180ac136acb1f81293df55429ee737ff9cd3247bb',
+  timestamp: 1634261521,
+  minter: '0x2B121a428F29af055E19bcCBe9a5Ca73bc85E408',
+  value: '80000000000000000',
+  tokenId: '1320',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x1508d4725b922b5d43b420615a86f857bdb48a86b99bf19cd1bf6778829d579e',
+  timestamp: 1634214379,
+  minter: '0xE54c447e47DC308Ff12C478E725C150e1586FfB0',
+  value: '160000000000000000',
+  tokenId: '1008',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13416312
+}
+data:  {
+  tx: '0x6ec9417d7fe8cd46e6d9b940e2ea0e087527bc5b535d80c704eed8731d8583f8',
+  timestamp: 1634090217,
+  minter: '0xeaE7CfDD31b8604533cE196EcbC42947b182fAf2',
+  value: '160000000000000000',
+  tokenId: '338',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407283
+}
+data:  {
+  tx: '0xca97b52c9501a2917ddf827a53380bee47efe950ef2667d3cbf968933d0009b8',
+  timestamp: 1634201509,
+  minter: '0x6B78DbB5a39853adD74463BCd72B6ef2e34372d2',
+  value: '160000000000000000',
+  tokenId: '972',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415367
+}
+data:  {
+  tx: '0x7f95c4daa39d74b97e65abc680a9dffd497254c0d2f2ffc4aa44ee680185664d',
+  timestamp: 1634087358,
+  minter: '0xd91B09e134aef316742ee56817514aC896dD9b92',
+  value: '80000000000000000',
+  tokenId: '93',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407064
+}
+data:  {
+  tx: '0x00c496fb558e621db095dbc52f7dfac494066790e26f04143cf6a11d34b5d50a',
+  timestamp: 1634088466,
+  minter: '0x11FF58544AEa8BdCb28eb350644D331B6F5A71f4',
+  value: '80000000000000000',
+  tokenId: '244',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407151
+}
+data:  {
+  tx: '0xeef2d94bc790d25928c88548811948e7e372c7c9cfbe73a83f5717054c1e798f',
+  timestamp: 1634183658,
+  minter: '0x09F3F79FdDD4Be3d3A85Db3Fb8394f4eb9Eb7eF3',
+  value: '160000000000000000',
+  tokenId: '855',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414075
+}
+data:  {
+  tx: '0xc62f80a6665f50c6f60800e1013e3c5b4d83096f639bde0847e067c280573438',
+  timestamp: 1634129093,
+  minter: '0x3A05B7Cb3C9fb1D1871b7448a902160a9AdB0dF3',
+  value: '160000000000000000',
+  tokenId: '738',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410059
+}
+data:  {
+  tx: '0xc71c8657b8987a6175a0f8b656f1574313f503f4ab24a6342848ac6be65ec118',
+  timestamp: 1634178586,
+  seller: '0xC99759630998A1c344822E6187b90aa63b425db4',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '140000000000000000',
+  tokenId: '26',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413697
+}
+data:  {
+  tx: '0xb435529a7c1d1dbedf589cf22486ea6ab9f0c072a6ba0d329a90350cedd3d721',
+  timestamp: 1634161237,
+  seller: '0x1B2C5086CF9790d330D6C45a5194F3a068308763',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '279',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412457
+}
+data:  {
+  tx: '0xa64e81225615a33ad71596eaff47ed79af24bec076af62fd09d41d236f0c03c8',
+  timestamp: 1634123412,
+  minter: '0xac5989aABed5F58863D0d6801EFF9E0Ef1291C46',
+  value: '80000000000000000',
+  tokenId: '700',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409667
+}
+data:  {
+  tx: '0x171eda0f43c54b58f6bedad799cad27b8b72ecc32a36fe6f1f244b52939d4987',
+  timestamp: 1634088026,
+  minter: '0x87118b46EF10Ea7Efc1A31950328ff1B4cde61dA',
+  value: '160000000000000000',
+  tokenId: '198',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407119
+}
+data:  {
+  tx: '0xd035de9f16b763d97fa291ed3034f1dee17a05f557592de0dc8ec2529568020c',
+  timestamp: 1634087358,
+  minter: '0xa61301A5199671aB6C5d2E21c718fdDBDAB778E3',
+  value: '160000000000000000',
+  tokenId: '89',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407064
+}
+data:  {
+  tx: '0x682b07118254dde7500a8ff117e3f825dfa066265b1c55dc42f670c42d591729',
+  timestamp: 1634259718,
+  minter: '0xa1Afb24302ABFD0c099369E141591ab0cC39e8Bf',
+  value: '400000000000000000',
+  tokenId: '1105',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x73c29a4d7a51287d4f07fe70e7fe44ed3e700df9437c5b74f9431c315a7f0778',
+  timestamp: 1634120176,
+  seller: '0xF655E23B8e53402833519B1DE7eCbD4f63D5e6ad',
+  buyer: '0xeaA88EfDb766934F138ABE9E8Db6390bF440Dcad',
+  value: '0',
+  tokenId: '641',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409431
+}
+data:  {
+  tx: '0x557bfed7eacf89864cd0942a0ee1a6f4f7dbc75d15e586209ec49fd063643eb1',
+  timestamp: 1634094025,
+  minter: '0xF0dEE6546388CdDAE2D91D019D844e3DF172839F',
+  value: '80000000000000000',
+  tokenId: '424',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407537
+}
+data:  {
+  tx: '0x5355dead319192c8f9a75fae3bfde633cf230564c0c42d12cc6bfd164a0c0c5e',
+  timestamp: 1634090252,
+  minter: '0x8450E3092b2c1C4AafD37cB6965cFCe03cd5fB6D',
+  value: '160000000000000000',
+  tokenId: '344',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407286
+}
+data:  {
+  tx: '0x1d502bbf418450394f27486e5b21a112ccbfa8de77528b6f5f336eb5cee7dae2',
+  timestamp: 1634187411,
+  seller: '0x614ef48f3Db5544A33c148921352Ccb32ff480dF',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '130000000000000000',
+  tokenId: '852',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13414344
+}
+data:  {
+  tx: '0xab0a02b0e2ea3e36399ae154378d1fe8fe6ac3a9fb49d336c7605705b104cc03',
+  timestamp: 1634100188,
+  seller: '0x516C3e4A3ee39EC3FdBe3733436A9C1B78A184da',
+  buyer: '0x39aF4ACedb8bD09e8C0932e2Fd1f188874eb27c0',
+  value: '0',
+  tokenId: '486',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407986
+}
+data:  {
+  tx: '0x4741223bfe743f49d1f235a8a3f55b3caeb47fa908fc74de0bb0c9ee0e32944f',
+  timestamp: 1634087407,
+  minter: '0xFD9681499aa71bA1EdAe41b6534acF55126FAd4d',
+  value: '80000000000000000',
+  tokenId: '110',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407067
+}
+data:  {
+  tx: '0x93d59c596c3f1fc9e14ff2c7fdae218fcfae2771294d3dae7df3a492adfc0047',
+  timestamp: 1634110072,
+  minter: '0xdf25EbeF0dc6A6eFbeAA7D35410E99440b50b047',
+  value: '160000000000000000',
+  tokenId: '601',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408715
+}
+data:  {
+  tx: '0xcf5900483972df7dc03f0854243fe3858b2d266fe6e310c44e7718d02ee54641',
+  timestamp: 1634098467,
+  minter: '0xC8f962Bf0Be0f43E8125B2c23B0b222B7354CD15',
+  value: '160000000000000000',
+  tokenId: '479',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407850
+}
+data:  {
+  tx: '0xdb1315408188d3ec1a9a0711d1a2454284919dcd6b1b59f266b2405d6197ce0b',
+  timestamp: 1634242199,
+  minter: '0xd8cA71FbDc245F8105918d5FBC7aDc34087DA78b',
+  value: '80000000000000000',
+  tokenId: '1016',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418369
+}
+data:  {
+  tx: '0xece4d4427b0c773d76a66ac54d70f1a8dafb966529aca8c7a9f9d20aa24a1a53',
+  timestamp: 1634148342,
+  minter: '0xfBBe3BB7b863Bd41A674CD0B7C9CcD2672CE2152',
+  value: '160000000000000000',
+  tokenId: '784',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411448
+}
+data:  {
+  tx: '0x8282f5fd239a5cb069d13ef21c29bf8c1de4b71ea41dd75a567e817f4be8a2f9',
+  timestamp: 1634245951,
+  minter: '0x9a298aa6A4fAA15A14506104377475D32a410E8E',
+  value: '160000000000000000',
+  tokenId: '1020',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418641
+}
+data:  {
+  tx: '0xa6eb24c07168581f17ae64cb5649553f5bfdbea6cdd2adc1047372e889eb0742',
+  timestamp: 1634239824,
+  minter: '0x73459C578f1F5B51f19f7d39B37849722CCF8BD9',
+  value: '160000000000000000',
+  tokenId: '1012',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418186
+}
+data:  {
+  tx: '0x5062cc93cb0d3a79f88d3977652f14e73ce713c537a8c636c797965d5f2fb07b',
+  timestamp: 1634257879,
+  seller: '0xedBFc4599106Cb3D2688b56901f27492578fA331',
+  buyer: '0xB26630a59Cb2763D1C2adbF0f374bC9e36B3F602',
+  value: '119500000000000000',
+  tokenId: '869',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419493
+}
+data:  {
+  tx: '0xba1f06b6f58ae154b53058bbf7cf55e1c4b4d91a80cf069ea35a004a85cc26ec',
+  timestamp: 1634259752,
+  minter: '0x6fcF1C8BF9b5624C26DE7fEa07AdeB474bcc08C2',
+  value: '400000000000000000',
+  tokenId: '1112',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419630
+}
+data:  {
+  tx: '0xa414783e096aff1457b3eb299ceb01ae72eee29120bc7199a108ae6ed36e0db9',
+  timestamp: 1634254275,
+  seller: '0xD744aDD88B1058234fa9bbA5C58Da7473FB8D187',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '0',
+  tokenId: '984',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419256
+}
+data:  {
+  tx: '0x849b83619772f69bb476f0b113ec82784fff5cb9bb50206eb8d95cb3778c5e3b',
+  timestamp: 1634091699,
+  minter: '0xe7014a666967F0C99435CDeBD2BbE87818bE379D',
+  value: '160000000000000000',
+  tokenId: '371',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407386
+}
+data:  {
+  tx: '0x5b1502f5721eb47712c3b9af09eac3a1a6094c8ec69dfb4b9fd1c72685ede152',
+  timestamp: 1634259718,
+  minter: '0x864B73589657D9d99AA3dFDfff6dBF8Cc221EfC1',
+  value: '400000000000000000',
+  tokenId: '1062',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x0178c37e61ed31974c7332bb3631ccb367e45e09cd34d479f97bc52a3e1a1968',
+  timestamp: 1634239928,
+  seller: '0xaA6bb45752624Cc225ad763970A21494CbF9E9dC',
+  buyer: '0x519d70f1bc214e10a3FC502E9eE3A36D490a53f0',
+  value: '119000000000000000',
+  tokenId: '12',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13418193
+}
+data:  {
+  tx: '0x2dd5dbaf673b05a60665a706123643b2383773a8d0d6446d93e18625ac879637',
+  timestamp: 1634096552,
+  minter: '0x33992d1c64FA64462657Df9f92B18C63Aee87162',
+  value: '160000000000000000',
+  tokenId: '453',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407716
+}
+data:  {
+  tx: '0x6c2259d7b7cb764a27c374a2738569284aa6048346bf5fc39272b409c2f02c63',
+  timestamp: 1634093911,
+  minter: '0x01eCcDB2D737B7A41f7Aa4eE4358bE8304b15588',
+  value: '80000000000000000',
+  tokenId: '416',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407532
+}
+data:  {
+  tx: '0x862117f840b4049c9ede210aa5bc8d53aabe0d282ddf29905f0b24c8301ff5a2',
+  timestamp: 1634261521,
+  minter: '0x5154907dDD93199a0bdcab7179f4F4D957454490',
+  value: '160000000000000000',
+  tokenId: '1323',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0xf56c3436f1fab2810501b1354c478e4744542e426c6b568b1860f992f74f6c68',
+  timestamp: 1634086868,
+  minter: '0xbE957A475844c127DDD207B4ff1F63900FD13E57',
+  value: '160000000000000000',
+  tokenId: '1',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407018
+}
+data:  {
+  tx: '0x0a81a2707f7a901b57b0a76355b39dc688945bc0e5949fd5421dc12afa050578',
+  timestamp: 1634088465,
+  minter: '0x65EF8236830cC27270891868C00e689dC25d0D0E',
+  value: '80000000000000000',
+  tokenId: '242',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407150
+}
+data:  {
+  tx: '0x607fdefa1af3d9937037ff254903afe86124b6c195dd02b476e9217be00d4d55',
+  timestamp: 1634087155,
+  minter: '0xba69593F1F51D4b2ff0a73298c8bE0C8586be931',
+  value: '80000000000000000',
+  tokenId: '49',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407051
+}
+data:  {
+  tx: '0xcd2305d7661be16b42f8f4cf6f2a95c6bb52e6340ba32f327367283caa6816e8',
+  timestamp: 1634253815,
+  minter: '0x817338C2982057f7B3481584d00c4584606CF16e',
+  value: '80000000000000000',
+  tokenId: '1033',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419221
+}
+data:  {
+  tx: '0x6c92e95d24f45a601830ddd93cc142dd89d76ce32fcc38e18f090bd05915750e',
+  timestamp: 1634089212,
+  minter: '0xc50ecD9105F531EEa9c6C260f67eE007e808Cfad',
+  value: '160000000000000000',
+  tokenId: '277',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407208
+}
+data:  {
+  tx: '0x1c99ad1431a3948f0877fea4258be10a3c449822311c38abd2673e4d60799782',
+  timestamp: 1634090834,
+  minter: '0x8020856E6c39b97356BE258DE7039113D1298e6D',
+  value: '160000000000000000',
+  tokenId: '360',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407330
+}
+data:  {
+  tx: '0xc219862188e62fc025ac17ea3c05343e071af715a09be7cb7ec8372f33c6e134',
+  timestamp: 1634124909,
+  seller: '0x79242dE56932913D34b901e6d09ccF4895Ac8394',
+  buyer: '0xb7c62E8E2f3728484CC49734975898980FfC1350',
+  value: '0',
+  tokenId: '343',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409780
+}
+data:  {
+  tx: '0xce04878bee07f7132de49454931aaa339f6df8f9e7d7129e68ffabf768daaa1f',
+  timestamp: 1634261521,
+  minter: '0x78Ab8a82Dd562D4498614cA81AE5FCF1B48D7629',
+  value: '80000000000000000',
+  tokenId: '1319',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x98495a021a320317241521f39a608bdb8a1c22dd959c17ae00f5f351dc36f458',
+  timestamp: 1634271682,
+  minter: '0x161D9B5d6e3eD8D9c1D36a7Caf971901C60B9222',
+  value: '400000000000000000',
+  tokenId: '1417',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420486
+}
+data:  {
+  tx: '0x2e5a6f8d56721dae2310948be8a0bca5f07fa9c601bc048233bc12a9b14b5a45',
+  timestamp: 1634241734,
+  seller: '0xedBFc4599106Cb3D2688b56901f27492578fA331',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '115000000000000000',
+  tokenId: '868',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13418327
+}
+data:  {
+  tx: '0x0ef4ad978eab7ec9c55fa1b7054c481b5c8982680798caa50ac4f33f51559b49',
+  timestamp: 1634260554,
+  minter: '0x7D60074F81F840763D971a6469683dB5B6f991a5',
+  value: '240000000000000000',
+  tokenId: '1276',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419686
+}
+data:  {
+  tx: '0xde901e1c490f9e7db4258c7818eb05bc2ba4f80c80905ae00bb043bc17066416',
+  timestamp: 1634089736,
+  minter: '0xA9F45360522e7Cd1Aa6D0dDe1Ab728F8Fe310C62',
+  value: '160000000000000000',
+  tokenId: '311',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407248
+}
+data:  {
+  tx: '0xab72bc59b9bf9988b6a557e36aab18bea1b63d1c340e0b83b5190ff3a483584c',
+  timestamp: 1634261715,
+  seller: '0x82E3009AbDF8847F3B31609040d1b5A5782ceD0a',
+  buyer: '0xb1E079854268985431935ce53AA54C8e1722fA0D',
+  value: '120000000000000000',
+  tokenId: '1007',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419763
+}
+data:  {
+  tx: '0x9ec1bb400348a8c7a50ec41aaacc386595042d7bf0509f17f16c160d0443864d',
+  timestamp: 1634087760,
+  minter: '0x5309152A3f589200b69C79fEa5a4B63F3E987551',
+  value: '160000000000000000',
+  tokenId: '166',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407097
+}
+data:  {
+  tx: '0x922d02485219bf16119fe97d2b60bcaac207d39a2881b4842160cffd067e8b74',
+  timestamp: 1634124076,
+  seller: '0x5B7F60E4A18db6E93f3C9CF04843FCb011181107',
+  buyer: '0xD551076646DDAeCa92810c31bC42da56204310B0',
+  value: '0',
+  tokenId: '710',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409718
+}
+data:  {
+  tx: '0xd88df1516090ab13b0c07ce38b8b5a2dc32b52e4966ff5112e93963a897fba86',
+  timestamp: 1634109671,
+  minter: '0xC19Fb3C9428A1F985927F337edA51b618d6b939C',
+  value: '160000000000000000',
+  tokenId: '599',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408680
+}
+data:  {
+  tx: '0x195c8960636df6ad01a18b28fc5a1d00b5b1b9fa4aada76f11bc0810e7b26381',
+  timestamp: 1634100060,
+  minter: '0x80eB4a0ba36533277fa5C36b63e9A2FF2C666dBC',
+  value: '80000000000000000',
+  tokenId: '507',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407977
+}
+data:  {
+  tx: '0xffde5184d0435f9e5482f74ef5dd9f45ff394f24105cef47842b2197d2f1a509',
+  timestamp: 1634099176,
+  minter: '0x423cFA7908700416ca2D0Ab7Db2024B1555c2c31',
+  value: '160000000000000000',
+  tokenId: '493',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407904
+}
+data:  {
+  tx: '0x7076b6df9a4ca4333d5a288d1843756d972cd4a316101e8ecf5ea3b6c24b46db',
+  timestamp: 1634123269,
+  minter: '0x9F8E5971845A700bef6092174fe0Fc3815C3FFfc',
+  value: '80000000000000000',
+  tokenId: '699',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409653
+}
+data:  {
+  tx: '0x18f30ae479a5f9b2b67103c9458a209c2935ace9eddc25d9f1563d6760e1b49f',
+  timestamp: 1634241509,
+  minter: '0x66633Daaff3A518587C3BE4d464A1e6ae3576994',
+  value: '80000000000000000',
+  tokenId: '1015',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418311
+}
+data:  {
+  tx: '0xc6f3ed57981a9d73a185c07ca54213ba40d2275e0d07385b1c119eee67994dec',
+  timestamp: 1634090415,
+  minter: '0x51E7b8564F50ec4ad91877e39274bdA7E6eb880A',
+  value: '160000000000000000',
+  tokenId: '347',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407299
+}
+data:  {
+  tx: '0x5d69ea51a02b7705f1ee193f9b3a770aa0293353217844dab23a2fde2760a562',
+  timestamp: 1634260957,
+  minter: '0x99c868013bBB669D91E545789402694bBF5aBC87',
+  value: '240000000000000000',
+  tokenId: '1287',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419707
+}
+data:  {
+  tx: '0xbf7ed4f3d8cc91f5cce8623164cab04acd490277eb57e5d150ffcb1ada489e50',
+  timestamp: 1634100151,
+  seller: '0xE23F99C3246F43Db5f659EA93AfE7755d9576ad3',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '387',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407983
+}
+data:  {
+  tx: '0x7c41d93b107f33f410a95caea17d5649d3a23e022e3588df59f6f60bc1893539',
+  timestamp: 1634205912,
+  minter: '0x61B857bCcBca5fFA1412836e1b78F238D1085AEf',
+  value: '160000000000000000',
+  tokenId: '987',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415688
+}
+data:  {
+  tx: '0x76fee4ae0bc6e302cd645cafa42e6b7cfdd2ab6c2bd38d91dc37f3b7aeb4bb5c',
+  timestamp: 1634090609,
+  minter: '0x50591b0a8274DD51617E4762D8251CcbBDFfFf02',
+  value: '80000000000000000',
+  tokenId: '349',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407311
+}
+data:  {
+  tx: '0xa368900f307a851c17405be7e400a1122a546538a5136bf179ad6b774083289b',
+  timestamp: 1634140590,
+  minter: '0x4235D26C24C27Aae2A41Eec232AA3697A43dD094',
+  value: '80000000000000000',
+  tokenId: '783',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410895
+}
+data:  {
+  tx: '0x37c2df8336c70928fdc519cf6a58601f2e45d5c8a5911bf240a8ee3729358cde',
+  timestamp: 1634090238,
+  minter: '0x79242dE56932913D34b901e6d09ccF4895Ac8394',
+  value: '80000000000000000',
+  tokenId: '343',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407285
+}
+data:  {
+  tx: '0xf35ceb7438696265e0936366f102fb9bb8ef8fa5e9d055d0b3b4c33dcdf712fb',
+  timestamp: 1634098481,
+  minter: '0xA1Aa61679923ADC2dEe2a760a2Df55D9Cb44D40A',
+  value: '160000000000000000',
+  tokenId: '482',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407852
+}
+data:  {
+  tx: '0x85db90c4cbe86ee35659930d5760ad6324c6ce67a3900dafa15c837d0f072560',
+  timestamp: 1634089827,
+  minter: '0xFd28D67eD154B734257276e5d090721434bd51A4',
+  value: '160000000000000000',
+  tokenId: '317',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407252
+}
+data:  {
+  tx: '0xeb211960eda55cc1fbf3fe9f7fb609b9a050613721f4d2acdde481f3d401b3a2',
+  timestamp: 1634088173,
+  minter: '0x53DCB1143F7F2Da6C9E182d4d42eC45b0Ffa5726',
+  value: '160000000000000000',
+  tokenId: '220',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407132
+}
+data:  {
+  tx: '0x11e82f6aa01912d666fbcead2ae7a9978c5301332d1fc7c240ef857cc19a7a04',
+  timestamp: 1634087196,
+  minter: '0x52d95bF1c50abb8031A5367DB41aE3d73C1d7c06',
+  value: '160000000000000000',
+  tokenId: '54',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407054
+}
+data:  {
+  tx: '0xe5f86c0af78ca044db66756677ac37013f71875fcf0cc032d1de9f79a09a0012',
+  timestamp: 1634098528,
+  minter: '0x516C3e4A3ee39EC3FdBe3733436A9C1B78A184da',
+  value: '160000000000000000',
+  tokenId: '485',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407856
+}
+data:  {
+  tx: '0x839a316c24e5add0ad76db58c2e50ebdbdd0484d5be78d6a52871da3198cc0f7',
+  timestamp: 1634090617,
+  minter: '0xB81549003D6e2A6aD748a0EEAe370Aa4BDDfCfCB',
+  value: '80000000000000000',
+  tokenId: '352',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407312
+}
+data:  {
+  tx: '0xc2daa961647302050a5003b38986d4d518d1f6a436251618da49e80a99b786e8',
+  timestamp: 1634104516,
+  minter: '0x9f0dDE3432DCf7dca29c30bc35A3F386f78fb319',
+  value: '160000000000000000',
+  tokenId: '553',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408315
+}
+data:  {
+  tx: '0x60908698aa731ab897d8063ac86585f9a392f4dbce423d21a4d27ce4e7019d60',
+  timestamp: 1634092604,
+  minter: '0xE23F99C3246F43Db5f659EA93AfE7755d9576ad3',
+  value: '160000000000000000',
+  tokenId: '387',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407443
+}
+data:  {
+  tx: '0x7ff338db6dcb5978ea99d9669d4cfd72a250c1aee10bb225bce552d598792ae2',
+  timestamp: 1634098436,
+  minter: '0x51DF21F8EEF2a718C03E26306e31E8A3daDA2B09',
+  value: '160000000000000000',
+  tokenId: '469',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407846
+}
+data:  {
+  tx: '0x29ae6ec9880f2d95b68d844eaef262268fe2d2d0a6d5c72f915bef31b0d167d5',
+  timestamp: 1634126829,
+  minter: '0x431F78b40b9270962f31A26Caa5B9fC0a0B907D3',
+  value: '160000000000000000',
+  tokenId: '727',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409910
+}
+data:  {
+  tx: '0x4e378e68a3e6f39e15dbc6eeb10c84d9e177cf8670d86447d4c330022e141b8c',
+  timestamp: 1634129431,
+  minter: '0xdE4e2C4995135Ca7EDFb6E63722466BB5930989A',
+  value: '160000000000000000',
+  tokenId: '740',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410088
+}
+data:  {
+  tx: '0x40f737e71a428e67118156f43618f190419dad55b0598a9c7d2f06c3c907c06a',
+  timestamp: 1634096434,
+  seller: '0xa40DEcCfF20e521f8bD6942A2C698a6990aB953D',
+  buyer: '0x624E284F2038Ee110674f65D6B631bEFfe0c2e71',
+  value: '0',
+  tokenId: '437',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407706
+}
+data:  {
+  tx: '0x2df230d2c441bb832295fa24b8493225d6bb5746b2be1027260a287707edbca2',
+  timestamp: 1634092141,
+  seller: '0xD50F7319379d645880a12ABEed02905B307d9426',
+  buyer: '0x30734A0adeCa7e07c3C960587d6502fC5EA0f8df',
+  value: '0',
+  tokenId: '373',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407413
+}
+data:  {
+  tx: '0xe962dcb0356a0dc1b66e82318bdc10a1e4f4cdd6477ead90e8e95e0239c819d3',
+  timestamp: 1634092472,
+  minter: '0xC3Edc48E0310fB0F4980D2A9A3831B2287d64F6b',
+  value: '80000000000000000',
+  tokenId: '379',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407436
+}
+data:  {
+  tx: '0xc1b5ce0cda6a68dff7ea0b8d2d8e7a5e71206cef2be4b6d00860acd9ab0e6cc4',
+  timestamp: 1634259886,
+  minter: '0x99c868013bBB669D91E545789402694bBF5aBC87',
+  value: '400000000000000000',
+  tokenId: '1154',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419639
+}
+data:  {
+  tx: '0xe0994c659811d85a79f2e454a376570fa01f5bcd402665d3708164fe74d8cd04',
+  timestamp: 1634106771,
+  minter: '0x37383276b29a939c856d4b15785D867Abb471D8E',
+  value: '160000000000000000',
+  tokenId: '568',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408469
+}
+data:  {
+  tx: '0xd00fee6a7fa9458de24cd94403a948d7eae80da677fdf0b56d00ed13421cc791',
+  timestamp: 1634107098,
+  seller: '0x4Ed507e92fff0A3b4D850Bd02793ea2071eA3182',
+  buyer: '0xA34bd732F29963E663f5B5cbbe390EB336BEdE69',
+  value: '0',
+  tokenId: '566',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408497
+}
+data:  {
+  tx: '0x8760ca8a1ff937637b5c9b880c3d7ba7209fa1327f730be2693ff14fcfa390eb',
+  timestamp: 1634092757,
+  seller: '0xaA4D944d7D56259Ba4575433bD411FF18b499171',
+  buyer: '0xAc334Fd2355eD58cfC89b69EF9BC9656A9d818E7',
+  value: '129000000000000000',
+  tokenId: '378',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407451
+}
+data:  {
+  tx: '0xbf24ca41d918ff1baf401a5eed265a35e09c4134b8193fb8517fa960b5e3d423',
+  timestamp: 1634111617,
+  minter: '0xd033fb7047fAC4Ac6F199B8280355976217ff175',
+  value: '160000000000000000',
+  tokenId: '614',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408820
+}
+data:  {
+  tx: '0xeb6d323c91da628328aa4fc1f38e4510f3946c06aa051f2f3771bd230cc45b6a',
+  timestamp: 1634089862,
+  minter: '0x80f3EEe5De1F656369860506d927533210077C5B',
+  value: '160000000000000000',
+  tokenId: '323',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407255
+}
+data:  {
+  tx: '0xd8df553052f6ec900706ee3f418130048bbc397c9e33c6b233abe6c548155e33',
+  timestamp: 1634105893,
+  minter: '0x9b6664e0a458512542dED84552A1Ed0BEf94b301',
+  value: '80000000000000000',
+  tokenId: '559',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408399
+}
+data:  {
+  tx: '0x8843c43723e0d05067fcd010bb7f72465c455912bd6be411cbe245b352387679',
+  timestamp: 1634098467,
+  minter: '0x9cc6350863367dD2B14eBe10a073E004ca722e4B',
+  value: '160000000000000000',
+  tokenId: '477',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407850
+}
+data:  {
+  tx: '0x2b1b3db9a42bc32ab91b9bbbabb75dddcce0b3cefa5ad629ba96eec45d19528f',
+  timestamp: 1634092551,
+  minter: '0x79c9E75D08A7e70030544f9a0361441AF268ce0a',
+  value: '160000000000000000',
+  tokenId: '384',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407438
+}
+data:  {
+  tx: '0x001f480e18607f5807ec1672805d61f6a479a6ad1332184e6b6e9481fbc7e551',
+  timestamp: 1634093780,
+  minter: '0x7F33c1c8079869b84b0C39F29B1652bADaF1a85c',
+  value: '80000000000000000',
+  tokenId: '411',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407521
+}
+data:  {
+  tx: '0xfb8184d039b1308e8f99391368aa94f6d64c1f01f1d68dfb417a551e971a92cb',
+  timestamp: 1634092551,
+  minter: '0x2206e33975EF5CBf8d0DE16e4c6574a3a3aC65B6',
+  value: '160000000000000000',
+  tokenId: '380',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407438
+}
+data:  {
+  tx: '0x3d04dd6e2b565553402ff0ffa20d43bb0bd2ddc6e5b352cd10ebe0853bba63af',
+  timestamp: 1634095336,
+  seller: '0x0B7576A64A0F4b4924D55eD328Ede4979446521B',
+  buyer: '0xA34bd732F29963E663f5B5cbbe390EB336BEdE69',
+  value: '149805139235822001',
+  tokenId: '57',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407637
+}
+data:  {
+  tx: '0x35c6d2531ebd71f759f7be6fb5c1533cf5002a7cd5a91fd610f29ebb984e914f',
+  timestamp: 1634089753,
+  minter: '0xDcD082a4520929dcE240cD1E5233339f7e15c661',
+  value: '160000000000000000',
+  tokenId: '315',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407249
+}
+data:  {
+  tx: '0x809ac72f9baab2e2c59d561ff0f097a9b90bbbf64994edc430e41bb8e0a616b8',
+  timestamp: 1634175089,
+  minter: '0xe453812315Cb10C188C5a9dCA21Df9F1cA056724',
+  value: '160000000000000000',
+  tokenId: '833',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413449
+}
+data:  {
+  tx: '0xc144e1be1e12af4f3da3476a68bb9be6ba5dd22a124974ef026fd5c1a043cadf',
+  timestamp: 1634105578,
+  minter: '0x71e9BaF1BDAeFb89694058dd3F9fE1aE3D20B6bF',
+  value: '160000000000000000',
+  tokenId: '557',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408379
+}
+data:  {
+  tx: '0x34516f7eb41a4ecd8a4f9c50b59540c0051d694fd4a42ccb4a1ba6b87376d972',
+  timestamp: 1634089212,
+  minter: '0xAff33Fc85397d7CA846c4Af6f33c8319d0a7B1CD',
+  value: '160000000000000000',
+  tokenId: '281',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407208
+}
+data:  {
+  tx: '0xe085d2ff565fa29654a90890087d66d179cfff69bdd81c50f810665275c1e267',
+  timestamp: 1634089302,
+  minter: '0x47923342988F3fD29EE6292Ad9A440728440ce4C',
+  value: '80000000000000000',
+  tokenId: '293',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407217
+}
+data:  {
+  tx: '0x02cd0d4b4fec23a9347234001e435ccf00723f7b5b0ede0093ef20e0560010f9',
+  timestamp: 1634090102,
+  minter: '0x7D60074F81F840763D971a6469683dB5B6f991a5',
+  value: '160000000000000000',
+  tokenId: '330',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407273
+}
+data:  {
+  tx: '0x1cc2b4adc2146d5ff325009db96af4546b0cc7cb8ee138d193867fd54129a04a',
+  timestamp: 1634100038,
+  minter: '0xcd6C26338B53d43bc29Cd90A05D4dc9E2c987614',
+  value: '160000000000000000',
+  tokenId: '503',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407974
+}
+data:  {
+  tx: '0x65d5b9aebff4168b78985ed70aa6d675fa1aa59d7f26720e839d6d1dcc193791',
+  timestamp: 1634098739,
+  minter: '0x5d801D926724A091e41e939f1d63fbC1dbe91E9d',
+  value: '160000000000000000',
+  tokenId: '487',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407874
+}
+data:  {
+  tx: '0x575e74c78fa990ba86bc2ee6b6187a4235c3c531aa20b16145eefd3e4e0f5872',
+  timestamp: 1634268647,
+  minter: '0x08bdF0F13C708D33449a2560af4db8d5dF6a3fE6',
+  value: '80000000000000000',
+  tokenId: '1398',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420277
+}
+data:  {
+  tx: '0xfb75b6ef56cf7f69668b483726c7f71c41908ea1f0dc770ae2ed31fff464ab2d',
+  timestamp: 1634098871,
+  seller: '0xC8f962Bf0Be0f43E8125B2c23B0b222B7354CD15',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '479',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407885
+}
+data:  {
+  tx: '0x8abd1daa6f456d062e77ee723844158cdf30b497094ef7e78e6a7fbfe7db2fec',
+  timestamp: 1634094025,
+  minter: '0xaf8Fa654a560A0682DfDAE30974572b727dB7552',
+  value: '80000000000000000',
+  tokenId: '423',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407537
+}
+data:  {
+  tx: '0xd3b955d15e59cddcfd1223b6889915b9f01cdc56174da27d3cb8c42eb3d98f6b',
+  timestamp: 1634093854,
+  minter: '0x0CD31f3cd2D70303c43f8E459701bE0fAd4b9aE1',
+  value: '160000000000000000',
+  tokenId: '412',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407528
+}
+data:  {
+  tx: '0xb44820e433d51628da7b3d71673c992eea0e94ba74629f2e3607cfed5c2e6c50',
+  timestamp: 1634091699,
+  seller: '0x5B7F60E4A18db6E93f3C9CF04843FCb011181107',
+  buyer: '0xD551076646DDAeCa92810c31bC42da56204310B0',
+  value: '0',
+  tokenId: '250',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407386
+}
+data:  {
+  tx: '0xb456be77e984d229927984e171401e1aebf8594b17833c5403f89dc05eeb45fc',
+  timestamp: 1634135669,
+  minter: '0x343f43F69b26F44CfC1206e5B11bC0BfB3a1188a',
+  value: '160000000000000000',
+  tokenId: '766',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410544
+}
+data:  {
+  tx: '0x4622f376ac64ae75f4310e609f7be36b84d4a6e8a43b40b0739832ba4d084088',
+  timestamp: 1634092551,
+  minter: '0xaA4D944d7D56259Ba4575433bD411FF18b499171',
+  value: '80000000000000000',
+  tokenId: '386',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407438
+}
+data:  {
+  tx: '0x44d6ee0efae507ffeb5a0b7c2f3d452db9fd2419160f8ae59ece134972a037a8',
+  timestamp: 1634261816,
+  minter: '0xC5c0A131303dfAB5fB8bcE3052BaB9326629da3d',
+  value: '400000000000000000',
+  tokenId: '1348',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419767
+}
+data:  {
+  tx: '0x551b395a2e5b539107f55842afbedb834bd6367e7a105f17e12394eb6dbefbd2',
+  timestamp: 1634089639,
+  minter: '0xd7F397173Ad7ab808aFebD138b5811BB1e9DC38b',
+  value: '160000000000000000',
+  tokenId: '309',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407242
+}
+data:  {
+  tx: '0xbd25e2c3a2ea5f35db795252f03f5f8833d64078c9dbdecc0598d9994627c2fe',
+  timestamp: 1634096127,
+  seller: '0x624E284F2038Ee110674f65D6B631bEFfe0c2e71',
+  buyer: '0xa40DEcCfF20e521f8bD6942A2C698a6990aB953D',
+  value: '0',
+  tokenId: '437',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407686
+}
+data:  {
+  tx: '0x0244a75581d3b45464c94d5bdc550dbc3ee068365d8d14856eb50c38f052d84e',
+  timestamp: 1634094301,
+  minter: '0x3F504Cf995874061fa04348037D0998878D428fB',
+  value: '160000000000000000',
+  tokenId: '433',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407557
+}
+data:  {
+  tx: '0xa14eeff86e771c9e44aae7d1a4bef5eee4b61cdb80cf308a1ea6849a3a40cdfe',
+  timestamp: 1634102059,
+  minter: '0x7741714903060FBE135244a067FCD231a34Fc68F',
+  value: '160000000000000000',
+  tokenId: '528',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408126
+}
+data:  {
+  tx: '0xd4944a155389dbe9be3fae56ee9bce464cbb5c9a0195e7464af06eb4e64a8225',
+  timestamp: 1634188780,
+  minter: '0x649ECaA1dDc1a985e219Aa2720486FdcE0b3615B',
+  value: '160000000000000000',
+  tokenId: '882',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0xd6870def19af2a9b92ddcbd256ac3199be79c6db89708fa37b1dbf130605aad6',
+  timestamp: 1634091798,
+  seller: '0xf51040e6104A86ec66B0ece14E09De7d24a1eC2A',
+  buyer: '0xA34bd732F29963E663f5B5cbbe390EB336BEdE69',
+  value: '135000000000000000',
+  tokenId: '266',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407390
+}
+data:  {
+  tx: '0xe89641f0e547f6491f2cb9f7b4d995c0c5350485403157455b20b19d4797e53c',
+  timestamp: 1634153657,
+  seller: '0xB3066344a4b2B257D58C27dAE309a93B4205398a',
+  buyer: '0xdf972b15A944E67Cf4fAF628c6fb1cBfb90B5176',
+  value: '0',
+  tokenId: '788',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411855
+}
+data:  {
+  tx: '0xc7dec459ff1cc14da584f287cf49069a6f4c50a11117ae2750e412d6f51565e1',
+  timestamp: 1634087412,
+  minter: '0xFCB54C361692298e8FCe04aB0485aeabe072Dd3C',
+  value: '160000000000000000',
+  tokenId: '112',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407070
+}
+data:  {
+  tx: '0x168bd58c1fa2226aea0e8f489b9a3554981c3def8c316f555ec0d3bf584e2b68',
+  timestamp: 1634093780,
+  minter: '0x85408F5aB20A535e97EC71604b6fe2181d72f179',
+  value: '80000000000000000',
+  tokenId: '410',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407521
+}
+data:  {
+  tx: '0xa54ef97fc2c8a8f218f3824f29153b5b17c1329f1f7cbe0e6b538e4a49987bf0',
+  timestamp: 1634088675,
+  seller: '0x02E67BA35a70CFC15A6Ac8ca10F752F901E62Dce',
+  buyer: '0x1C04481B1a7629c6Eb195A4Bfa02A89f88Fd138E',
+  value: '0',
+  tokenId: '210',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407168
+}
+data:  {
+  tx: '0x652cb49d1ee10d9ecbff40e120cd7087e37643634963f0a5532baa2ec8035fba',
+  timestamp: 1634264184,
+  minter: '0x06D44c61D4AC23c7A3c04ab1b87771526A2b1d34',
+  value: '80000000000000000',
+  tokenId: '1373',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419949
+}
+data:  {
+  tx: '0xa60c309e5b3ff3a0c74733ba55cf7b6c237ce9d3960ad062ef2f7f613044e9ff',
+  timestamp: 1634210236,
+  minter: '0xeF6405617ba07815765F437D22855B37dDdFe08b',
+  value: '160000000000000000',
+  tokenId: '997',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415991
+}
+data:  {
+  tx: '0x3feaecf31bb87743e0bb6751453fb178352225dc5d836cbcb92c1bb21b83a248',
+  timestamp: 1634087172,
+  minter: '0x5c7767B37F5BeD0454a966F3cC54eb84472FEa6E',
+  value: '160000000000000000',
+  tokenId: '52',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407053
+}
+data:  {
+  tx: '0x34a34dc345410cd05e8128084852631850675ac61c91ced38b414820623058cb',
+  timestamp: 1634106488,
+  minter: '0x4Ed507e92fff0A3b4D850Bd02793ea2071eA3182',
+  value: '160000000000000000',
+  tokenId: '565',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408447
+}
+data:  {
+  tx: '0x8410421bf56670235582db8f09bc73173c5774310efc59dee2dc1a82c8852645',
+  timestamp: 1634266932,
+  seller: '0xE21AD4143A4DbAC59f8A36aFA476EED2bf364AFb',
+  buyer: '0x1EFF0B95EdE3E600ed9cBe5384B92ea254E16187',
+  value: '102000000000000000',
+  tokenId: '1041',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13420143
+}
+data:  {
+  tx: '0x42d3cb25c6c73b0d55d8bdc3eed00132c3187725d7b1528a1566e3fc7ee6e566',
+  timestamp: 1634095733,
+  minter: '0x520D74E33614Acce968803949Bb41bF9817C04a3',
+  value: '160000000000000000',
+  tokenId: '448',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407661
+}
+data:  {
+  tx: '0x799e20bed3aeaf2011a84f19c59ac827ff1ab4d2466f4e3188abbbbe6ff56ec7',
+  timestamp: 1634098481,
+  minter: '0x1cFdbDe3b3fa867f82508353fB2Bb12DC41AD89A',
+  value: '80000000000000000',
+  tokenId: '481',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407852
+}
+data:  {
+  tx: '0x94b9dbdb14e3c72cf71795614eb84de27a8a12b92b1bcb5367da80412d3fc566',
+  timestamp: 1634140333,
+  seller: '0xB0413F68Dba511892829e749c232De98A1427543',
+  buyer: '0x5Ca35e09005cE061A101fa7c6f6Cb2EEb8ADA886',
+  value: '0',
+  tokenId: '776',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13410878
+}
+data:  {
+  tx: '0x99fb6cb479ffaf77a59d8db6900bd8c4ff8e18c2d33ef710cd6235b061ae8d30',
+  timestamp: 1634090983,
+  minter: '0xC0509C8c4BE003e68fDCF20Cdd6ace347253C061',
+  value: '160000000000000000',
+  tokenId: '363',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407336
+}
+data:  {
+  tx: '0x227830c78139da4ce70fa502dd0f50ea75822766d8a1419307c3f1cb2abdf1f9',
+  timestamp: 1634095660,
+  seller: '0x8c527879a68D242c1ccA8D23409d8Fd75324AC3A',
+  buyer: '0x95a369b57115B39777800766b50df1BFcb9Dba58',
+  value: '0',
+  tokenId: '36',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407657
+}
+data:  {
+  tx: '0x64860288938e59789383595bd7f6bc527217890c905730374b31aed701e827a1',
+  timestamp: 1634262671,
+  minter: '0xB8D8D919244f8015ca3C61CD7211386a477fCE53',
+  value: '80000000000000000',
+  tokenId: '1369',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419829
+}
+data:  {
+  tx: '0x7b26a42b2c0d8d8614f742c84449b1f7a277f9c340424e300c90d4c537601ba2',
+  timestamp: 1634195061,
+  minter: '0x416035ACD34dFc4e586aDB0431BCf85111EeE4b8',
+  value: '160000000000000000',
+  tokenId: '946',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414907
+}
+data:  {
+  tx: '0x96acd6ec7a789116957c9c9c136b21472056578493a964371e2f8f511a5449b5',
+  timestamp: 1634123528,
+  minter: '0x7Eb63b648d9BdFb49ddb49F64ee099201F53C9e3',
+  value: '160000000000000000',
+  tokenId: '701',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409677
+}
+data:  {
+  tx: '0x1285c834e98a12cb74104e940145dd71d5147a9cead91ffb3ba2398b5c302384',
+  timestamp: 1634094479,
+  minter: '0x28585C3834301877E82F8Cc9Cd545A22e3148aDd',
+  value: '160000000000000000',
+  tokenId: '435',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407566
+}
+data:  {
+  tx: '0x16e7b424f463ffa60ffc6accbec898311ef7ee56fbb4606f4ad7c16017521e95',
+  timestamp: 1634097616,
+  minter: '0x7BE5A559C0728177d28edE2261dF6A5d87a6E146',
+  value: '160000000000000000',
+  tokenId: '465',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407789
+}
+data:  {
+  tx: '0x3da13513127bb23ca9ef1cc01da19d453da94cc6f7e11e5fc40239bbab7b7875',
+  timestamp: 1634094213,
+  minter: '0x6fcF1C8BF9b5624C26DE7fEa07AdeB474bcc08C2',
+  value: '160000000000000000',
+  tokenId: '431',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407554
+}
+data:  {
+  tx: '0xa74244e59cdd308350ba4d237129cd1549579bd7e15612a0e41be0cc6a53ccac',
+  timestamp: 1634096537,
+  minter: '0xa06C0C2B2CE1918A148e5c6ea9F32a374Ef44Ba8',
+  value: '160000000000000000',
+  tokenId: '451',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407714
+}
+data:  {
+  tx: '0xcfec0e582020defa49de04a124c3a1d8666d6b525f685d5f1d253b9ae46aeb7b',
+  timestamp: 1634096662,
+  minter: '0x054838FB00e7B33318B43fC9511eABFED192652b',
+  value: '160000000000000000',
+  tokenId: '455',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407725
+}
+data:  {
+  tx: '0xe5a710bda736119e7425d8ef2a888725c14d5e48ac51db48f758ef97b54485b6',
+  timestamp: 1634089223,
+  minter: '0x9d185b6146b50541F510aDf722d13071e8A237ac',
+  value: '160000000000000000',
+  tokenId: '288',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407211
+}
+data:  {
+  tx: '0x0b7295e6c6fd5295dca314a40e56ee4d6cff382a39efeed7c49340a4186271dc',
+  timestamp: 1634260121,
+  minter: '0x624E284F2038Ee110674f65D6B631bEFfe0c2e71',
+  value: '320000000000000000',
+  tokenId: '1203',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419651
+}
+data:  {
+  tx: '0x3177a25d386bc563e9859247b8fb5d0788f9dfd34e98dc106723baf90ebe5427',
+  timestamp: 1634259718,
+  minter: '0x05a5214752DeD026930447ab8cE84f86584CB362',
+  value: '400000000000000000',
+  tokenId: '1093',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x14c220d79699705879a951d74f33f3c5b9ab65143d64153541dcead33369d3a7',
+  timestamp: 1634100041,
+  minter: '0xDa7b063B9e3D917f9899914809499Dc4Ec4620db',
+  value: '160000000000000000',
+  tokenId: '505',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407975
+}
+data:  {
+  tx: '0xc654cc9cc814e8465ba4e417f4d0a2e84fdc9df53d0d552e35ed3ecf6e9a9086',
+  timestamp: 1634099991,
+  seller: '0x7BE5A559C0728177d28edE2261dF6A5d87a6E146',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '466',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407969
+}
+data:  {
+  tx: '0xf9eb31ac9d7109be62c46cd579f2eea278acfb274c8931dcf8a1d8fa7b802f33',
+  timestamp: 1634087887,
+  minter: '0xDc28a30D9444f3eD894Ce61c2E7B1540af0424c1',
+  value: '160000000000000000',
+  tokenId: '176',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407107
+}
+data:  {
+  tx: '0xebc5501f18cc255be80da1158908b758072f710008cb36d5c133c08b99942330',
+  timestamp: 1634099645,
+  minter: '0xBb001f4890910bA4dB793151466C0258567dE003',
+  value: '160000000000000000',
+  tokenId: '497',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407941
+}
+data:  {
+  tx: '0xf895b48e7706755c9e857a2dd9e98cd9b764b4e04f375af714b88a568f7585fa',
+  timestamp: 1634095571,
+  minter: '0x18D7643D52825BB90ac5A1Caf6594A991f5C9C3f',
+  value: '160000000000000000',
+  tokenId: '445',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407651
+}
+data:  {
+  tx: '0x956ea0a8c8a552336bd39a0111bf81e20f14bf4d89e8cbc9952a483bfc7b52f7',
+  timestamp: 1634092317,
+  minter: '0x1c016fB3c8238b23C7fAd5aD65cb23B815C8D1CA',
+  value: '160000000000000000',
+  tokenId: '374',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407428
+}
+data:  {
+  tx: '0xf4fef1fbe0f57b620a475239c95fbb28c6979f95a90862a6560f6e1b021e68c4',
+  timestamp: 1634093505,
+  seller: '0x90eBBdcd83B62C5528b4c95C58cfc5c054159836',
+  buyer: '0xA34bd732F29963E663f5B5cbbe390EB336BEdE69',
+  value: '150000000000000000',
+  tokenId: '136',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407499
+}
+data:  {
+  tx: '0xbebdb8e019572848aa3a87c55f3ebf7afe3ca2b7fe5a81f9b8cc6f681c112e52',
+  timestamp: 1634091484,
+  minter: '0xDFBbe5686d054944a4E64CdD588f5777b56d1B63',
+  value: '160000000000000000',
+  tokenId: '369',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407368
+}
+data:  {
+  tx: '0xf3a251e8630ef3a5694a592bd2eaee43d92f7788f5f262cc375f8cf26fed8d13',
+  timestamp: 1634088877,
+  minter: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '160000000000000000',
+  tokenId: '258',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407181
+}
+data:  {
+  tx: '0xca8615fa12efbe83ac6be23e9dc2907cc982f8bb5ad9db393afd69dcc914be3b',
+  timestamp: 1634092952,
+  minter: '0x4Bb2Be93E9c35Ea0A02cE3C7F2fcfB1BF837E4f2',
+  value: '160000000000000000',
+  tokenId: '391',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407467
+}
+data:  {
+  tx: '0x79ee94932e9a315297b63df0868f571f8ab37a189e1877c4c14157c04bc442fb',
+  timestamp: 1634260238,
+  minter: '0x9a22A348CB3d4Be207Aec0d45267671cd68Ae2f9',
+  value: '240000000000000000',
+  tokenId: '1224',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419659
+}
+data:  {
+  tx: '0xf72f90d00d0f1479999668de91c3819e1c461d8418be604f7c409b71176d4587',
+  timestamp: 1634091626,
+  seller: '0xA5F6d896E8b4d29Ac6e5D8c4B26f8d2073Ac90aE',
+  buyer: '0xA34bd732F29963E663f5B5cbbe390EB336BEdE69',
+  value: '120000000000000000',
+  tokenId: '313',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13407377
+}
+data:  {
+  tx: '0xb363ffd0fe34fd6f5322ed8bb38cba6c721017905cec6a3a2e90d7835ecbcd0c',
+  timestamp: 1634209955,
+  minter: '0xd22aa7e99F8feB270fe692f252815D2d7C9816c5',
+  value: '160000000000000000',
+  tokenId: '995',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415967
+}
+data:  {
+  tx: '0xff3851cd95282b866d9bc1823d888760ec3c918539ac7afcb7b25d93eb7bbc5d',
+  timestamp: 1634246378,
+  minter: '0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66',
+  value: '160000000000000000',
+  tokenId: '1022',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418678
+}
+data:  {
+  tx: '0xb1a7b4682b5b4f0ffa56ff3803bd69a3f2b64cb2f51f6e441a75e61265b8f853',
+  timestamp: 1634246535,
+  minter: '0xc09Bb0a29b9A8965E17b00f85E63F353543ac572',
+  value: '160000000000000000',
+  tokenId: '1024',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418694
+}
+data:  {
+  tx: '0x800aba3557505bba79d236b1cb25419636f2514d663b3fa76f9b8e3ef3635e34',
+  timestamp: 1634241983,
+  seller: '0xc50ecD9105F531EEa9c6C260f67eE007e808Cfad',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '119900000000000000',
+  tokenId: '278',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13418351
+}
+data:  {
+  tx: '0xe84da11e24fa6a4f16cf3bc63092091a436cb72129021fee876950f1294b6c8c',
+  timestamp: 1634236745,
+  seller: '0x2872b46D925BD06f15FDC82C59Aaee744ddB4B94',
+  buyer: '0xdf972b15A944E67Cf4fAF628c6fb1cBfb90B5176',
+  value: '110000000000000000',
+  tokenId: '944',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13417954
+}
+data:  {
+  tx: '0xe532821aeb169830b207902298b714bb6cbbd727abeb55b2a4ced9fa205616dc',
+  timestamp: 1634253746,
+  minter: '0xEf9f63D250e23a69Ada643932B7ab3DBB4294B3d',
+  value: '80000000000000000',
+  tokenId: '1031',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419216
+}
+data:  {
+  tx: '0xb4326c044fed23db8bc511bcf88d29bf0a022da9fa9c9bd43ed75848f36dc321',
+  timestamp: 1634253472,
+  minter: '0xFD845e60eAea6c960d2a2b6F490b53D26925D5cB',
+  value: '160000000000000000',
+  tokenId: '1029',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419196
+}
+data:  {
+  tx: '0x66875ec4ec177a41f498d71611c9ac5141522c0c30143a2b5ecb2d437dcf1448',
+  timestamp: 1634257331,
+  minter: '0xE21AD4143A4DbAC59f8A36aFA476EED2bf364AFb',
+  value: '80000000000000000',
+  tokenId: '1041',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419459
+}
+data:  {
+  tx: '0x3248edba035b771caa6e034f7ee9413c56ef705b524db67b30cb181e74c006ea',
+  timestamp: 1634259710,
+  minter: '0xc495ad35FD5AE432970087773cbb87C9ec70aEbd',
+  value: '400000000000000000',
+  tokenId: '1052',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419628
+}
+data:  {
+  tx: '0x24da9bb12ccad07c1d0ded6973f0c62d82ed42a49b6c6a35f85bc097e7c4120f',
+  timestamp: 1634093064,
+  minter: '0xEbA1184a59cA067286ab492165E0AaC51A6ff3C9',
+  value: '160000000000000000',
+  tokenId: '393',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407474
+}
+data:  {
+  tx: '0xa81fcaa5719fea43752518318ca44558f017a425af7c56e0965beb9326f2787e',
+  timestamp: 1634244025,
+  seller: '0xBf1902B3206312AD77BeBF3319b78549Df078D61',
+  buyer: '0xF8a79C717f23c03ee4364f1c90136Be953288307',
+  value: '0',
+  tokenId: '909',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13418502
+}
+data:  {
+  tx: '0x7c5ec16492a73431c33a52b6ab4f392f962806de8357742ed25d2f67e37292fc',
+  timestamp: 1634187946,
+  seller: '0x614ef48f3Db5544A33c148921352Ccb32ff480dF',
+  buyer: '0x1C04481B1a7629c6Eb195A4Bfa02A89f88Fd138E',
+  value: '140000000000000000',
+  tokenId: '851',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13414374
+}
+data:  {
+  tx: '0xde4de5564ac3e495f24a566a1b5b716050540eb57815ee90580e9baffdf4c92c',
+  timestamp: 1634188793,
+  minter: '0xE25c293d1c478e6F061fC581560fd27fDe153606',
+  value: '160000000000000000',
+  tokenId: '896',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414440
+}
+data:  {
+  tx: '0xe1de9c5a930c929c7180eadaa1fb5e17d4c4158647ffe381b5871295d79a4568',
+  timestamp: 1634175923,
+  seller: '0x0c3699715DE1739eF5a8a0F3a667a7092EE7e0B4',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '119000000000000000',
+  tokenId: '304',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413505
+}
+data:  {
+  tx: '0xff02e223a0f32efaac9b7a6b80b309fb21170a9ba64e717e61332bec075bc199',
+  timestamp: 1634175279,
+  seller: '0x0Bd9c0c963a2c34AF773C0adCEb31A9181D73218',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '109000000000000000',
+  tokenId: '305',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413464
+}
+data:  {
+  tx: '0x08c98d08f4f70219e2301e9af9e5ca3ce7a040ed0f3dae415da28e3dea6a00a6',
+  timestamp: 1634188780,
+  minter: '0x17Ffba60Cf4737199a7337D8B1ee0a7C6DFA212d',
+  value: '160000000000000000',
+  tokenId: '872',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x40d8e5ea94e78c003d6cb4d2c3192345096b75f72ebf63b2582a60a4335d7697',
+  timestamp: 1634260067,
+  minter: '0x89BD26919E642484ac888ba689F7353DbEfeb414',
+  value: '240000000000000000',
+  tokenId: '1195',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419650
+}
+data:  {
+  tx: '0xdd0b601340e3044ec9f0fab879ed6659e1225162f4467de0f7a7de3c9329e007',
+  timestamp: 1634107409,
+  minter: '0xF384ef0F8CD8c7bDe90e5c29D10ec5F48b234e44',
+  value: '160000000000000000',
+  tokenId: '576',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408521
+}
+data:  {
+  tx: '0x5a5ecc4770ca059c0d161c9fde1189e131111192e435a04811fef7433e0ed554',
+  timestamp: 1634261113,
+  minter: '0x7F33c1c8079869b84b0C39F29B1652bADaF1a85c',
+  value: '160000000000000000',
+  tokenId: '1294',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419719
+}
+data:  {
+  tx: '0x3a840e8be5ddff7c059589fce7df2c64d8420c4d3937cc17a0759a81e4f03612',
+  timestamp: 1634260181,
+  minter: '0x864B73589657D9d99AA3dFDfff6dBF8Cc221EfC1',
+  value: '400000000000000000',
+  tokenId: '1212',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419654
+}
+data:  {
+  tx: '0xeb977e20c043041c11f2e4928ff9c047c10242bebde520f26b04d05d638591a3',
+  timestamp: 1634087407,
+  minter: '0xbC6C413b3099033C9fd991a3Db74873f915C2B71',
+  value: '80000000000000000',
+  tokenId: '105',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407067
+}
+data:  {
+  tx: '0xaf7ef023250c1a6d7fe37297365ffc50739c30695ea6dfa229df1b3309bc3933',
+  timestamp: 1634267825,
+  minter: '0x0492A80d26Ed93742F2a0b67600A774c7cC1A22e',
+  value: '80000000000000000',
+  tokenId: '1396',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420212
+}
+data:  {
+  tx: '0x2047d61991e4697bf68ef23b33cbd2acadac480761507ab49820a57e929593fc',
+  timestamp: 1634261521,
+  minter: '0xba29FAF969A0252bc58bAB0c8B3d52B162470345',
+  value: '80000000000000000',
+  tokenId: '1321',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419750
+}
+data:  {
+  tx: '0x9e9e303dbba68e4ae26540c2d8e06c932fc36f430dc0bc997f1869f826b9bc02',
+  timestamp: 1634087407,
+  minter: '0x69d0A3a214719fbaf7292dC10E1097c07E2B22b1',
+  value: '80000000000000000',
+  tokenId: '108',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407067
+}
+data:  {
+  tx: '0x4be17674649432fa48d151200ab6f9d50829b1ed253d53acdba8359be03bf8af',
+  timestamp: 1634261900,
+  minter: '0xea168Cf597fAA9EAE961d158082AdD36E94bD641',
+  value: '80000000000000000',
+  tokenId: '1363',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419772
+}
+data:  {
+  tx: '0x3d19e171d69403586c9fa913d102dc47f0457d8511ea09639d415183200521e2',
+  timestamp: 1634087598,
+  minter: '0x57cC6b85a583fE6B2AF2E1Ac0Eb97553Bf406B81',
+  value: '80000000000000000',
+  tokenId: '141',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0x839d597f8189c43945b87e84ec799c13c03ad6a5af9d63d2f5982dbc33ef0ed5',
+  timestamp: 1634266928,
+  minter: '0xD1DbB49eB0aBE5B16F06F942a5Da999204709bF1',
+  value: '80000000000000000',
+  tokenId: '1393',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420141
+}
+data:  {
+  tx: '0x4f3f865a3c42174f71c7a90709a46b6e2736f0c3a4b5e4cd5a08ef0f0272ec76',
+  timestamp: 1634259872,
+  minter: '0x374B1685BBf135d542B491F6e4e6BbA2C76eDbD5',
+  value: '400000000000000000',
+  tokenId: '1149',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419638
+}
+data:  {
+  tx: '0xa62bb9f28bd1080152c4b58f3aed1070ca315416e62611f1ad01eef3fd657c13',
+  timestamp: 1634178270,
+  minter: '0x3d734dFa58d8e171c7abB8aEf1556f654a8143Fa',
+  value: '160000000000000000',
+  tokenId: '838',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413669
+}
+data:  {
+  tx: '0x2f73d9bae2ae3c5bbd4db5f6bae30831feabeb69b3eb19e50dbe7cac2dd3fb6a',
+  timestamp: 1634170266,
+  seller: '0x20ea2015DbBE9c6841F86DA02A81CED211ee8220',
+  buyer: '0xC1E549320f048D8149d5B0cB9Cb268dA59f1F2aD',
+  value: '100000000000000000',
+  tokenId: '758',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13413109
+}
+data:  {
+  tx: '0x57d7b52f4410bd7dafd530c7016a570e040b76a578d38d50d1339a3e913474c9',
+  timestamp: 1634171903,
+  minter: '0xa89b00a32583a47028d3648E5c21D42751a5708c',
+  value: '160000000000000000',
+  tokenId: '823',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413233
+}
+data:  {
+  tx: '0xe59758c9fdbe03fde69e1392017e29a7bed6533e217c40db193471d82a1479f7',
+  timestamp: 1634193021,
+  minter: '0x32c9B1C732C5fAB8dfD70C209fb25364239aB615',
+  value: '160000000000000000',
+  tokenId: '934',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414752
+}
+data:  {
+  tx: '0xe1adce929a804d85f97da5f3941b346cb6e8fef28ad23fa255f220ee934c4994',
+  timestamp: 1634106966,
+  minter: '0x2e4167B592F67EFB9Fe05F552c99fdeD8716ea4a',
+  value: '160000000000000000',
+  tokenId: '571',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408486
+}
+data:  {
+  tx: '0x9434b5dc96515e2ee99ad07649128b7e52918494b20ec0ed62652b2d3b60ce4e',
+  timestamp: 1634268966,
+  minter: '0xfaaaa71338AB67829AC94B36099e4032fF8F6954',
+  value: '240000000000000000',
+  tokenId: '1399',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13420306
+}
+data:  {
+  tx: '0x4459d75cf6002a068ce246d20b5fd39f6894882f7718ee5f9f20afce187c071f',
+  timestamp: 1634087553,
+  minter: '0x7caA9f43822e288782e3e8797C8A16774C689b3D',
+  value: '160000000000000000',
+  tokenId: '127',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407082
+}
+data:  {
+  tx: '0x2744fe7808147a180ffd7a8f5862b4c010db8f346b1f19a906c892aaf4be58f3',
+  timestamp: 1634102018,
+  minter: '0x300eEAC6D2F152928c034fA369FFFBf6e24b2124',
+  value: '160000000000000000',
+  tokenId: '526',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408120
+}
+data:  {
+  tx: '0x8cdf4f66b5e2e880771e0127ee18e4f42601a5657f7e2afc26a8666fb7f90b07',
+  timestamp: 1634259718,
+  minter: '0x0B7576A64A0F4b4924D55eD328Ede4979446521B',
+  value: '80000000000000000',
+  tokenId: '1092',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x25c6fd8a2cb788a86dcb9697a70cee9116852db9f18e98db118fe2d42a30db19',
+  timestamp: 1634259718,
+  minter: '0xeB3C8443183DA126d51f39b2E393ceEbCF93c3a9',
+  value: '160000000000000000',
+  tokenId: '1103',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0xe7d457d3995b70b30b9c341ae4a37bca735b94f4352657b447049e0953032f6f',
+  timestamp: 1634161031,
+  seller: '0x8F475EA35aCB12c0Efa31c3907e0BB0312aaB6C3',
+  buyer: '0x0dC59Ef3A29D4C7Ac87bA04071EEE3Fb5dEdF356',
+  value: '0',
+  tokenId: '301',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13412440
+}
+data:  {
+  tx: '0xa4942441d2aef6070579bbafa54d9b9997f1c1305dd6ffe23a91822540d32e94',
+  timestamp: 1634177727,
+  minter: '0x7937Fe5E2b19629184285178AC9D712157408075',
+  value: '160000000000000000',
+  tokenId: '836',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413635
+}
+data:  {
+  tx: '0x05f337346d58e7c28cba5ab43eddb7cd7b79d756ca4f407a4ae54ce35d04b629',
+  timestamp: 1634261237,
+  minter: '0xBf7c5F30057288FC2D7D406B6F6c57E1D3235A27',
+  value: '160000000000000000',
+  tokenId: '1301',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419723
+}
+data:  {
+  tx: '0xa5ac1da294295a20f5145927702178b0af2ce2778c5a99e222f99047dd1384da',
+  timestamp: 1634171612,
+  minter: '0x66E1365158fbc31f5643a379AD24c9798fBdB9AD',
+  value: '160000000000000000',
+  tokenId: '819',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13413209
+}
+data:  {
+  tx: '0x1c1027b9a07c5acea0a75c72f4f4c36732ba06e675359bbbad3034b04148b544',
+  timestamp: 1634193123,
+  minter: '0x32f32dF0a090962F9553b046911409eDC60b90EB',
+  value: '160000000000000000',
+  tokenId: '936',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414764
+}
+data:  {
+  tx: '0x424dd719b33517cbefeda6596b38e86081135b2d001acb6150b9bd9758849534',
+  timestamp: 1634259718,
+  minter: '0xa3f7FE5f82eA5DB2e8F163AfB99494b3f0c278a6',
+  value: '400000000000000000',
+  tokenId: '1098',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x55906db2513f026c6ad70bc60fb0c039ecadfe1da232c87e6f07c14155771650',
+  timestamp: 1634261695,
+  minter: '0x5A9d2d6Fe9D949A02D96C6Ee7028625759b0b8BE',
+  value: '240000000000000000',
+  tokenId: '1342',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419761
+}
+data:  {
+  tx: '0x5df13cd652826ca5b1dd054b12ad76c8968979edac9adc5bd950346fab3cc56a',
+  timestamp: 1634152993,
+  minter: '0xb31A28F9ff74D801225a715D48c6D399118c770a',
+  value: '160000000000000000',
+  tokenId: '796',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13411806
+}
+data:  {
+  tx: '0x1428ed000b0ca8b7ef28cf419b9126945c37553f7276b7167f3bf01794d70832',
+  timestamp: 1634088118,
+  minter: '0x0f403e5d69dC3C994FD7109972bAC306193AA466',
+  value: '160000000000000000',
+  tokenId: '205',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407128
+}
+data:  {
+  tx: '0x72611b357f03cde2d2ee626483295ae9178bd44dba12d122bfbfcd7a9a184b7a',
+  timestamp: 1634087372,
+  minter: '0x07529A0DBeaA96754F7296DB6C0Aca9224601917',
+  value: '160000000000000000',
+  tokenId: '103',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407066
+}
+data:  {
+  tx: '0xc3769178b21a7adf5d3dfd76254b13ba1562bed7d12448c44cb77b00964440cc',
+  timestamp: 1634195850,
+  minter: '0xab42c346917F95431799271394c3e061c005886d',
+  value: '160000000000000000',
+  tokenId: '948',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414957
+}
+data:  {
+  tx: '0xe318f85bc6a8f6e678335989254b69c6b1d16b653c00da922b84aa3431699b7e',
+  timestamp: 1634124658,
+  minter: '0xC277783D4fCAD12135c51e0dAcc165Fb7c9aEe48',
+  value: '80000000000000000',
+  tokenId: '723',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409759
+}
+data:  {
+  tx: '0x1307df6ca25438e564f4a79a3f80c8ee5a714127e48edb4f3252056d2ac4da95',
+  timestamp: 1634102893,
+  minter: '0xD505670aD549629A67be2C20c12e930599345366',
+  value: '80000000000000000',
+  tokenId: '537',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408193
+}
+data:  {
+  tx: '0x75583be83acccb162225766df2cf7a9d648dd7664e6a27df855b2b82176cf141',
+  timestamp: 1634088338,
+  minter: '0xDDE2f6877F1D02F76a7a8e7aa2De7345F61695d7',
+  value: '160000000000000000',
+  tokenId: '236',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407145
+}
+data:  {
+  tx: '0x76cd33ce55f0f9d5bd220259cc5f3c5cb6c0c7f355609d33c0cb7eb3999e2831',
+  timestamp: 1634188780,
+  minter: '0xa4Bbe91837BA46c295aADf9d326330f1dcb5A626',
+  value: '160000000000000000',
+  tokenId: '888',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414437
+}
+data:  {
+  tx: '0x95a510df2c9189798c87901a6053a8e7b8dfa48e45dc4de20ab21a6a258b1618',
+  timestamp: 1634259718,
+  minter: '0x0aCE88B44C8010c81A6fd133F7D9f47ca79E6b64',
+  value: '400000000000000000',
+  tokenId: '1057',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0x5d17d5ec7aa4a2897ae4c43658337c6795b44f4339096c11d9d596d52cc28f12',
+  timestamp: 1634088026,
+  minter: '0xbfDBffD80741F83C4C8a86AE706c83a721e2583E',
+  value: '160000000000000000',
+  tokenId: '196',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407119
+}
+data:  {
+  tx: '0xe61f60b95dcd3c2bb0d70a0f9d829aafc3f5de96c526f2b0fb4ccc9a2cc00f0a',
+  timestamp: 1634087630,
+  minter: '0x2d60d1eB7C4a25EF7635cFCa7c7b0B958859AAE1',
+  value: '160000000000000000',
+  tokenId: '147',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407087
+}
+data:  {
+  tx: '0x3107c13199e7a024162a6cf3ffa104161ca7cbda3fbecba56b85e5d6d89cdc22',
+  timestamp: 1634091131,
+  minter: '0x4113c5855B8219e0fd48B304456b84965d31E1C7',
+  value: '160000000000000000',
+  tokenId: '365',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407345
+}
+data:  {
+  tx: '0x85fd2a3bc53eb8a464c787fbc808e1f849830f28b8ffc5232973d7e43dc46819',
+  timestamp: 1634201121,
+  minter: '0x920Dd67581aB35619c5709DB9D8DD39bbB816Bf3',
+  value: '80000000000000000',
+  tokenId: '969',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415345
+}
+data:  {
+  tx: '0xfb8e776d6f23b086b3fd6c474604cef7d7f3f3a993c95b925f10681b5275f6c0',
+  timestamp: 1634185901,
+  seller: '0x50591b0a8274DD51617E4762D8251CcbBDFfFf02',
+  buyer: '0x43851e9F0F192851ce0a3a43E4bB57992884d2C7',
+  value: '119000000000000000',
+  tokenId: '349',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13414246
+}
+data:  {
+  tx: '0x82078f80323ae04935514a732b50d3557c698dc88a0195a8cf947a240846f668',
+  timestamp: 1634087135,
+  minter: '0xD6997ba213AF4Ad0a19E7e5cd2Fe5E075253064F',
+  value: '160000000000000000',
+  tokenId: '41',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407049
+}
+data:  {
+  tx: '0x1af709b51dcaae0d7347e557072866fbafa485b4a4fa7d9e252d7514e4ac076c',
+  timestamp: 1634087135,
+  minter: '0xCcE7794415AC3DC94194483F154F58681B5c407E',
+  value: '80000000000000000',
+  tokenId: '43',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407049
+}
+data:  {
+  tx: '0x48e0eca3b698152f25f7630e4c6b1ab8ef5e477f56bb1a93202fbc64edd46ba7',
+  timestamp: 1634087994,
+  minter: '0x580106201646283D0289e8251D2D2EFf8E5A99de',
+  value: '80000000000000000',
+  tokenId: '185',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407113
+}
+data:  {
+  tx: '0x9b79e570c83eb970d0c109ac63f2335145bd9c7f5f48ab1d2b0dd83f99b0ce1f',
+  timestamp: 1634198685,
+  minter: '0x759EA6dB5bf409fc91551a726092726Bf58Fff29',
+  value: '160000000000000000',
+  tokenId: '959',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13415166
+}
+data:  {
+  tx: '0x2814baae68a425d2c4d7bb1f7271dbe6a994238fccda999ef73763c4b13f5755',
+  timestamp: 1634089245,
+  minter: '0xe74e48007CB5D0464640b5D760d26f7b4DE6d790',
+  value: '80000000000000000',
+  tokenId: '290',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407212
+}
+data:  {
+  tx: '0x6ea30c46638dedfe75856d7c98ee858dcff309cdc3c44d2d2bef895ec393ec57',
+  timestamp: 1634259718,
+  minter: '0x6fcF1C8BF9b5624C26DE7fEa07AdeB474bcc08C2',
+  value: '400000000000000000',
+  tokenId: '1072',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419629
+}
+data:  {
+  tx: '0xdc54cd031af3c0b626ea9dd2d467f0a454ceb46f827ab6c40694a97ee47b5106',
+  timestamp: 1634088026,
+  minter: '0x801B02292Ea208310E56B00eB6C566687ef911e8',
+  value: '160000000000000000',
+  tokenId: '194',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407119
+}
+data:  {
+  tx: '0xcefb706d8c63d85c684369b953a841e5bde045a01361bc9af15cc85e761724c3',
+  timestamp: 1634188793,
+  minter: '0x13431B50d0fFe30A2951CE09aCD1c3e05cE8E115',
+  value: '160000000000000000',
+  tokenId: '894',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414440
+}
+data:  {
+  tx: '0xb38fb83a02d0f0a2ce4e2bebe2f70677c5ef04d2b59550ec685d7dac7824059a',
+  timestamp: 1634087598,
+  minter: '0xa3f7FE5f82eA5DB2e8F163AfB99494b3f0c278a6',
+  value: '160000000000000000',
+  tokenId: '142',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407084
+}
+data:  {
+  tx: '0x37f9050fc5df61c508031ce6d2a69e726c3a107634592210270b16eca91e3a9d',
+  timestamp: 1634093132,
+  minter: '0x0e9F8400fD420fFF688E11B0E5E2D4a87606b868',
+  value: '160000000000000000',
+  tokenId: '397',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407482
+}
+data:  {
+  tx: '0x7b8717dde6e6bcccae5fafd9ab7eafb64195d67eee642e5ce1a546067b473471',
+  timestamp: 1634196176,
+  minter: '0x5Be78162ba2a0bEf30Cc60D78F137Cf409a26D9F',
+  value: '160000000000000000',
+  tokenId: '950',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13414983
+}
+data:  {
+  tx: '0x5297319c557bab185c21938262418838f8a20b8a1bd57e324a36fa270dd40f7c',
+  timestamp: 1634117219,
+  minter: '0xc495ad35FD5AE432970087773cbb87C9ec70aEbd',
+  value: '160000000000000000',
+  tokenId: '642',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409209
+}
+data:  {
+  tx: '0xe43b7d8eaea18e6f3fe5d3d9214f662c3489ee489928de982efac67f9cb4cf8f',
+  timestamp: 1634087196,
+  minter: '0x0B7576A64A0F4b4924D55eD328Ede4979446521B',
+  value: '160000000000000000',
+  tokenId: '56',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407054
+}
+data:  {
+  tx: '0xf0cd414b1bb50db397214e09ea7ad79762424a9c00f163cb3ac1a1dfd586ee5f',
+  timestamp: 1634261651,
+  seller: '0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66',
+  buyer: '0xfa80c1a8F2968D6526607D780B06ACB68d61Beb8',
+  value: '111731020724814361',
+  tokenId: '1023',
+  contract_id: '0x7Be8076f4EA4A4AD08075C2508e481d6C946D12b',
+  blockNumber: 13419757
+}
+data:  {
+  tx: '0xe2b6a44b1515c68b519dd6d05125308ca50189b3e9e2564923c34186ccc50e4b',
+  timestamp: 1634260067,
+  minter: '0x99c868013bBB669D91E545789402694bBF5aBC87',
+  value: '400000000000000000',
+  tokenId: '1198',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419650
+}
+data:  {
+  tx: '0x269b87faed0031084517c1faaf700c3b4dc914580feec4d01c730ee6a09df1bc',
+  timestamp: 1634123759,
+  minter: '0x5B7F60E4A18db6E93f3C9CF04843FCb011181107',
+  value: '80000000000000000',
+  tokenId: '710',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409697
+}
+data:  {
+  tx: '0x4dac877fb77055a5972c8b939bee7e269e2a87c120987cfa4c21d39493e82f07',
+  timestamp: 1634088641,
+  minter: '0xA8fBe0452eedFC4598d4C64C33615d942a70Af6e',
+  value: '160000000000000000',
+  tokenId: '248',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407166
+}
+data:  {
+  tx: '0xc69fdfddc47bf2c85143a21a1350c8dc4c36294612c0b75f9dfae474944ca175',
+  timestamp: 1634104302,
+  minter: '0x330045F35Ce738f9054223C03CB424c219cc71AF',
+  value: '160000000000000000',
+  tokenId: '551',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408295
+}
+data:  {
+  tx: '0xf0c4e142291fda819eda1879b2a96045f85f08dd98cb61d3e3e2ae6ab497e756',
+  timestamp: 1634103857,
+  minter: '0xd4255a9812E5FAb1C0907E8aA83d5df904C85872',
+  value: '160000000000000000',
+  tokenId: '547',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408262
+}
+data:  {
+  tx: '0xdcd99fe770f920440c88565ac2eba6d0bbbc5352e574c5b8db2a57788fb347b3',
+  timestamp: 1634087010,
+  minter: '0x3DEB3F260499a4c54564B9db319C005A576010C6',
+  value: '80000000000000000',
+  tokenId: '27',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407035
+}
+data:  {
+  tx: '0x33fd8d624ff514de9bb7746b94bbe93b5d55e89a7cd4ebe30f474a7ca1a28108',
+  timestamp: 1634093711,
+  minter: '0x7F33c1c8079869b84b0C39F29B1652bADaF1a85c',
+  value: '80000000000000000',
+  tokenId: '409',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407514
+}
+data:  {
+  tx: '0xf430cc594bafd960a50292efb863019c8a6d2b7f8e7f17a6ad371c1dc161dcb1',
+  timestamp: 1634087630,
+  minter: '0x2e78C7454F6395ADBAC09394E65f68ACDa44e357',
+  value: '160000000000000000',
+  tokenId: '149',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407087
+}
+data:  {
+  tx: '0xb02b45d52375e33e567f0bfc6e676552fa61d69f9ef8cf843050abf07a8a67f8',
+  timestamp: 1634103954,
+  minter: '0x011D1afDBd8B9FDb3BBDE14f34c324fCeA07FC83',
+  value: '160000000000000000',
+  tokenId: '549',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408269
+}
+data:  {
+  tx: '0xa6d3135b3fa9dd91136d282c2d66015385206e0bf2f0838d77a26ea5eefa8f8d',
+  timestamp: 1634088305,
+  minter: '0x8806B1A0792D2b429c22A0BAA9133197df833ABB',
+  value: '80000000000000000',
+  tokenId: '235',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407142
+}
+data:  {
+  tx: '0x58a768ea36106d4b37febc0a1422cb944cd2f7ef65dabf87aa5c286022564ed6',
+  timestamp: 1634087155,
+  minter: '0xCcE7794415AC3DC94194483F154F58681B5c407E',
+  value: '80000000000000000',
+  tokenId: '50',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407051
+}
+data:  {
+  tx: '0x7b773da62acb39f4d4eba573d791e0607933ae2e8d73059936118ecc452ca55b',
+  timestamp: 1634088338,
+  minter: '0x38CeE38775cF4BA8d2095Cf4BF9A0f1D9dae0125',
+  value: '160000000000000000',
+  tokenId: '240',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407145
+}
+data:  {
+  tx: '0x355cdf9d4bea412fb52dffb8a4e6b35a12e2fbf56d305c7a77c5859a783704c9',
+  timestamp: 1634088242,
+  minter: '0x80e66Be5DF1B6d2BEE6a3652E1854c68850ed9FF',
+  value: '160000000000000000',
+  tokenId: '226',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407137
+}
+data:  {
+  tx: '0xb54a36ff712383dc0674574fef91872d9ba74df046a0dba675dd7e9248b8ca01',
+  timestamp: 1634086951,
+  minter: '0x38fA0037679830A698Cf98a0472Ab6F45e84b6f7',
+  value: '80000000000000000',
+  tokenId: '15',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407028
+}
+data:  {
+  tx: '0xa17ba4f21149c8cbfb27c85af37332fb2f336b17308c4e5a696edc9807f18e70',
+  timestamp: 1634087327,
+  minter: '0x77424437E320fc70Ab04D983e259CA6e6e205C86',
+  value: '160000000000000000',
+  tokenId: '87',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407063
+}
+data:  {
+  tx: '0xa252a85ec21955314ccdc8fa7f5be9f34c171745663116839176914de55e0244',
+  timestamp: 1634260496,
+  minter: '0xB6338e154C4A6FE0d0A0134B7D7D063F1d6A0722',
+  value: '400000000000000000',
+  tokenId: '1271',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13419681
+}
+data:  {
+  tx: '0xbd0fc35d44099af163d9306a7201cda7864c349832950180c6eb2657adb6f8a2',
+  timestamp: 1634093911,
+  minter: '0x208e15354bbf52f5df0dE3F169EDFC9F6F52B1A8',
+  value: '160000000000000000',
+  tokenId: '417',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407532
+}
+data:  {
+  tx: '0xf3b72289c65d486e1363fbc56955f9c556bb5c5754ad55919736f1b70bb00ba1',
+  timestamp: 1634112765,
+  minter: '0x181e43D91De61450897d6d7c2c1eBa95FC6FAfCb',
+  value: '80000000000000000',
+  tokenId: '621',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13408904
+}
+data:  {
+  tx: '0xc68570985159cb7085f403e818906d3ccea8828c34cf963d4dd1e8ce990ca45b',
+  timestamp: 1634090127,
+  minter: '0xB32764a2D56d94B6e91E67A3Ad3275EDB1A3e504',
+  value: '160000000000000000',
+  tokenId: '332',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13407274
+}
+data:  {
+  tx: '0xbd45729c1ff70a80cf27795259720eb201a9c035635e92413b4f546b6814f354',
+  timestamp: 1634114913,
+  minter: '0xA12B5910651476F2f4747e243068468e95474f0F',
+  value: '160000000000000000',
+  tokenId: '632',
+  contract_id: '0xb06204423D5E2D6ad48D33181DEfCf14307894cb',
+  blockNumber: 13409070
+}
