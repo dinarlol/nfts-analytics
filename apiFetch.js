@@ -32,11 +32,11 @@ function getMints () {
         let i = 0;
         (async function(){
         for (let index = 0; index < mints.length; index++) {        
-          console.log(`Task ${i} starting!`);
+          console.log(`Task ${mint._id} starting!`);
           const mint = mints[index];
           api.fetch(mint._id, mint.mints); 
-          await timer(30000);
-          console.log(`Task ${i} done!`);
+          await timer(45000);
+          console.log(`Task ${mint._id} done!`);
         }
         })()  
         
