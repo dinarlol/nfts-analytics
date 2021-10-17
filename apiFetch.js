@@ -24,23 +24,24 @@ const mintsPipeline = function (db, callback) {
 // Returns a Promise that resolves after "ms" Milliseconds
 const timer = ms => new Promise(res => setTimeout(res, ms))
 
-const getMints = async() => {
+function getMints () {
   MongoClient.connect(murl, function (err, client) {
     const db = client.db(dbName);
     assert.equal(null, err);
     mintsPipeline(db, function (err1, mints) {
         let i = 0;
-      mints.forEach(mint => {
-        await timer(30000);
-         //  if (i > 25 && i < 30){
-         api.fetch(mint._id, mint.mints); 
-         console.log(`Task ${i} done!`);
-        //  }
-      });
+        for (let index = 0; index < mints.length; index++) {
+          (async function(){
+          const mint = mints[index];
+          await timer(30000);
+          api.fetch(mint._id, mint.mints); 
+          console.log(`Task ${i} done!`);
+        })()  
+        }
     // api.fetch('0xaa86c991f431a0cff8aba553b19268debb9b48a4', 1); 
       
     });
   });
-};
+}
 
 getMints();
