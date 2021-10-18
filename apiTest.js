@@ -34,7 +34,7 @@ function runUpdate(offset, limit) {
               // save or update in db
               const query = { id: event.asset.id };
               const values = {
-                $set: { id: event.asset.id, asset: event.asset, asset_contract: event.asset.asset_contract.address },
+                $set: { id: event.asset.id, asset: event.asset, asset_contract: event.asset.asset_contract.address.toLowerCase() },
               };
               dbo.collection('assets').updateOne(query, values, { upsert: true }, function (err, res) {
                 if (err) throw err;

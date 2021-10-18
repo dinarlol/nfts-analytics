@@ -34,7 +34,7 @@ function getMints () {
         for (let index = 0; index < mints.length; index++) {        
           console.log(`Task ${mint._id} starting!`);
           const mint = mints[index];
-          api.fetch(mint._id, mint.mints); 
+          api.fetch(mint._id.toLowerCase(), mint.mints); 
           await timer(45000);
           console.log(`Task ${mint._id} done!`);
         }

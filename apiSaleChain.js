@@ -49,12 +49,12 @@ module.exports = { fetch: function(contractAddress, fromBlock) {
                     let data = {};
                     if (l.args.from === zero) {
                         // save in mint
-                        data = { tx: log.transactionHash, timestamp: block.timestamp, minter: l.args.to, value: tx.value.toString(), tokenId: l.args.tokenId.toString(), contract_id: tx.to, blockNumber: tx.blockNumber };
+                        data = { tx: log.transactionHash, timestamp: block.timestamp, minter: l.args.to, value: tx.value.toString(), tokenId: l.args.tokenId.toString(), contract_id: contractAddress, blockNumber: tx.blockNumber };
                     }
                     else {
                         // save in sales
                         coll = "sales";
-                        data = { tx: log.transactionHash, timestamp: block.timestamp, seller: l.args.from, buyer: l.args.to, value: tx.value.toString(), tokenId: l.args.tokenId.toString(), contract_id: tx.to, blockNumber: tx.blockNumber };
+                        data = { tx: log.transactionHash, timestamp: block.timestamp, seller: l.args.from, buyer: l.args.to, value: tx.value.toString(), tokenId: l.args.tokenId.toString(), contract_id: contractAddress, blockNumber: tx.blockNumber };
                     }
                     MongoClient.connect(murl, function (err1, db) {
                         if (err1) throw err1;
