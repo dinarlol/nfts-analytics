@@ -24,7 +24,7 @@ const mintsPipeline = function (db, callback) {
 // Returns a Promise that resolves after "ms" Milliseconds
 const timer = ms => new Promise(res => setTimeout(res, ms))
 
-function getMints () {
+export default function getMints () {
   MongoClient.connect(murl, function (err, client) {
     const db = client.db(dbName);
     assert.equal(null, err);
@@ -45,5 +45,3 @@ function getMints () {
     });
   });
 }
-
-getMints();

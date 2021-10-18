@@ -10,7 +10,7 @@ const nftdb = 'nftanalytics';
 
 let url = 'https://api.opensea.io/api/v1/events?event_type=successful&only_opensea=false&format=json';
 
-function runUpdate(offset, limit) {
+export default function runUpdate(offset, limit) {
   url += `&offset=${offset}&limit=${limit}`;
 
   request.get(
@@ -34,7 +34,11 @@ function runUpdate(offset, limit) {
               // save or update in db
               const query = { id: event.asset.id };
               const values = {
-                $set: { id: event.asset.id, asset: event.asset, asset_contract: event.asset.asset_contract.address.toLowerCase() },
+                $set: {
+                  id: event.asset.id,
+                  asset: event.asset,
+                  asset_contract: event.asset.asset_contract.address.toLowerCase(),
+                },
               };
               dbo.collection('assets').updateOne(query, values, { upsert: true }, function (err, res) {
                 if (err) throw err;
@@ -47,8 +51,9 @@ function runUpdate(offset, limit) {
     }
   );
 }
-
+/*
 // eslint-disable-next-line no-plusplus
 for (let index = 0; index < 10; index++) {
-  runUpdate(index * 300, 300);
+  
 }
+*/
