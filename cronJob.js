@@ -10,20 +10,7 @@ const job = new CronJob(
     api.runUpdate(0, 300);
   },
   function () {
-    fetch();
-    /* This function is executed when the job stops */
-  },
-  true /* Start the job right now */
-  // timeZone /* Time zone of this job. */
-);
-
-const job2 = new CronJob(
-  '0 */15 * * * *',
-  function () {
-    // do something
-    api(0, 300);
-  },
-  function () {
+    fetch.getMints();
     /* This function is executed when the job stops */
   },
   true /* Start the job right now */
