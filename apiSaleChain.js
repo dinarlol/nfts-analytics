@@ -30,7 +30,12 @@ module.exports = { fetch: function(contractAddress, fromBlock) {
     const provider = new ethers.providers.JsonRpcProvider(url);
     const contract = new ethers.Contract(contractAddress, abi, provider);
     const filter = contract.filters.Transfer(null, null, null);
-    filter.fromBlock = provider.getBlockNumber().then((b) => b - 5000);
+    if (fromBlock) {
+    filter.fromBlock = fromBlock;
+    }else {
+        filter.fromBlock = provider.getBlockNumber().then((b) => b - 5000);
+    
+    }
     filter.toBlock = 'latest';
     const iface = new ethers.utils.Interface(abi);
 
